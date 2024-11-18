@@ -1,0 +1,4695 @@
+<?xml version="1.0"?><vendors>
+	<vendor>
+		<vendorNo>00174939</vendorNo>
+		<vendorName>YOUR SYSTEM, spol.s r.o.</vendorName>
+		<vendorAddress>Türkova 2319/5b</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14900</postCode>
+		<country>CZ</country>
+		<VAT>CZ00174939</VAT>
+		<phone>+420737226239</phone>
+		<email>zdenek.zabransky@ys.cz</email>
+		<contact>Zábranský Zdeněk</contact>
+		<no>996927-ITS-MAN-HWYS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>00506729</vendorNo>
+		<vendorName>EXCON, a.s</vendorName>
+		<vendorAddress>Sokolovská 187/203</vendorAddress>
+		<city>Praha 9</city>
+		<postCode>18068</postCode>
+		<country>CZ</country>
+		<VAT>CZ00506729</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWEXC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>00549274</vendorNo>
+		<vendorName>GM electronic, spol. s r.o.</vendorName>
+		<vendorAddress>Kratochvílova 4/1748</vendorAddress>
+		<city>Praha 6</city>
+		<postCode>16200</postCode>
+		<country>CZ</country>
+		<VAT>CZ00549274</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-GM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>01392042</vendorNo>
+		<vendorName>ATEsystem s.r.o.</vendorName>
+		<vendorAddress>Technologická 375/3</vendorAddress>
+		<city>Ostrava Pustkovec</city>
+		<postCode>70800</postCode>
+		<country>CZ</country>
+		<VAT>CZ01392042</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-FVV-MAN-AE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>01392042</vendorNo>
+		<vendorName>ATEsystem s.r.o.</vendorName>
+		<vendorAddress>Technologická 375/3</vendorAddress>
+		<city>Ostrava Pustkovec</city>
+		<postCode>70800</postCode>
+		<country>CZ</country>
+		<VAT>CZ01392042</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-AE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>01392042</vendorNo>
+		<vendorName>ATEsystem s.r.o.</vendorName>
+		<vendorAddress>Technologická 375/3</vendorAddress>
+		<city>Ostrava Pustkovec</city>
+		<postCode>70800</postCode>
+		<country>CZ</country>
+		<VAT>CZ01392042</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-ATS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>01812084</vendorNo>
+		<vendorName>dspot s.r.o.</vendorName>
+		<vendorAddress>Učňovská 391/9</vendorAddress>
+		<city>Praha</city>
+		<postCode>19000</postCode>
+		<country>CZ</country>
+		<VAT>CZ01812084</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-DSPOT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>01812084</vendorNo>
+		<vendorName>dspot s.r.o.</vendorName>
+		<vendorAddress>Učňovská 391/9</vendorAddress>
+		<city>Praha</city>
+		<postCode>19000</postCode>
+		<country>CZ</country>
+		<VAT>CZ01812084</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-DSPOT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>01965603</vendorNo>
+		<vendorName>Property Blocks s.r.o.</vendorName>
+		<vendorAddress>Kaizlovy sady 434/13 Karlín</vendorAddress>
+		<city>Praha</city>
+		<postCode>18600</postCode>
+		<country>CZ</country>
+		<VAT>CZ01965603</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-PRPRT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>02562014</vendorNo>
+		<vendorName>Azenet s.r.o.</vendorName>
+		<vendorAddress>Plánská 403/5</vendorAddress>
+		<city>Plzeň</city>
+		<postCode>30100</postCode>
+		<country>CZ</country>
+		<VAT>CZ02562014</VAT>
+		<phone>+420 703 146 343</phone>
+		<email>objednavky@azenet.cz</email>
+		<contact>Alena Čechová</contact>
+		<no>996927-FVV-MAN-AZ</no>
+	</vendor>
+	<vendor>
+		<vendorNo>02562014</vendorNo>
+		<vendorName>Azenet s.r.o.</vendorName>
+		<vendorAddress>Plánská 403/5</vendorAddress>
+		<city>Plzeň</city>
+		<postCode>30100</postCode>
+		<country>CZ</country>
+		<VAT>CZ02562014</VAT>
+		<phone>+420 703 146 343</phone>
+		<email>objednavky@azenet.cz</email>
+		<contact>Alena Čechová</contact>
+		<no>996927-ITS-MAN-HWAZ</no>
+	</vendor>
+	<vendor>
+		<vendorNo>02562014</vendorNo>
+		<vendorName>Azenet s.r.o.</vendorName>
+		<vendorAddress>Plánská 403/5</vendorAddress>
+		<city>Plzeň</city>
+		<postCode>30100</postCode>
+		<country>CZ</country>
+		<VAT>CZ02562014</VAT>
+		<phone>+420 703 146 343</phone>
+		<email>objednavky@azenet.cz</email>
+		<contact>Alena Čechová</contact>
+		<no>996927-OFP-MAN-AZE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>02562014</vendorNo>
+		<vendorName>Azenet s.r.o.</vendorName>
+		<vendorAddress>Plánská 403/5</vendorAddress>
+		<city>Plzeň</city>
+		<postCode>30100</postCode>
+		<country>CZ</country>
+		<VAT>CZ02562014</VAT>
+		<phone>+420 703 146 343</phone>
+		<email>objednavky@azenet.cz</email>
+		<contact>Alena Čechová</contact>
+		<no>996927-VSS-MAN-AZ</no>
+	</vendor>
+	<vendor>
+		<vendorNo>02570980</vendorNo>
+		<vendorName>UHAL trade cz s.r.o.</vendorName>
+		<vendorAddress>Chudenická 1059/30</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ02570980</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-IP-MAN-UHAL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>02570980</vendorNo>
+		<vendorName>UHAL trade cz s.r.o.</vendorName>
+		<vendorAddress>Chudenická 1059/30</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ02570980</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PPIP-MAN-UHAL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>02570980</vendorNo>
+		<vendorName>UHAL trade cz s.r.o.</vendorName>
+		<vendorAddress>Chudenická 1059/30</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ02570980</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PP-MAN-UHAL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>02589273</vendorNo>
+		<vendorName>Adam Ležák</vendorName>
+		<vendorAddress>Podzámčí 680</vendorAddress>
+		<city>Opočno</city>
+		<postCode>51773</postCode>
+		<country>CZ</country>
+		<VAT/>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SSAL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>02856123</vendorNo>
+		<vendorName>Rašid Garipov</vendorName>
+		<vendorAddress>Dobronická 778 KUNDRATICE</vendorAddress>
+		<city>Praha 414</city>
+		<postCode>14800</postCode>
+		<country>CZ</country>
+		<VAT>CZ9308124320</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-FT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>03222853</vendorNo>
+		<vendorName>Ing. Libor Lahodný</vendorName>
+		<vendorAddress>OBYČTOV 67</vendorAddress>
+		<city>Žďár nad Sázavou</city>
+		<postCode>59101</postCode>
+		<country>CZ</country>
+		<VAT>CZ9205135225</VAT>
+		<phone>+420 736 165 250</phone>
+		<email>libor.lahodny@projekce-el.cz</email>
+		<contact>Ing. Libor Lahodný</contact>
+		<no>996927-VSS-MAN-LL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>03412687</vendorNo>
+		<vendorName>NETWORG CZ s.r.o.</vendorName>
+		<vendorAddress>Sokolovská 352/215</vendorAddress>
+		<city>Praha 9 - Vysočany</city>
+		<postCode>19000</postCode>
+		<country>CZ</country>
+		<VAT>CZ03412687</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-OFP-MAN-NET</no>
+	</vendor>
+	<vendor>
+		<vendorNo>03846440</vendorNo>
+		<vendorName>COPY GENERAL TECHNOLOGY, s.r.o.</vendorName>
+		<vendorAddress>Křížová 2598/4</vendorAddress>
+		<city>Praha 5</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ03846440</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SWCGT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>03846440</vendorNo>
+		<vendorName>COPY GENERAL TECHNOLOGY, s.r.o.</vendorName>
+		<vendorAddress>Křížová 2598/4</vendorAddress>
+		<city>Praha 5</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ03846440</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PLT-MAN-H-CGE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>03846440</vendorNo>
+		<vendorName>COPY GENERAL TECHNOLOGY, s.r.o.</vendorName>
+		<vendorAddress>Křížová 2598/4</vendorAddress>
+		<city>Praha 5</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ03846440</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PLT-MAN-P-CG</no>
+	</vendor>
+	<vendor>
+		<vendorNo>03846440</vendorNo>
+		<vendorName>COPY GENERAL TECHNOLOGY, s.r.o.</vendorName>
+		<vendorAddress>Křížová 2598/4</vendorAddress>
+		<city>Praha 5</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ03846440</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PLT-MAN-S-CGE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>04020286</vendorNo>
+		<vendorName>INTEGART CZ s.r.o.</vendorName>
+		<vendorAddress>Čestice 289</vendorAddress>
+		<city>Čestice</city>
+		<postCode>251 01</postCode>
+		<country>CZ</country>
+		<VAT>CZ04020286</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-IP-MAN-INTE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>04020286</vendorNo>
+		<vendorName>INTEGART CZ s.r.o.</vendorName>
+		<vendorAddress>Čestice 289</vendorAddress>
+		<city>Čestice</city>
+		<postCode>251 01</postCode>
+		<country>CZ</country>
+		<VAT>CZ04020286</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PPIP-MAN-INTE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>04020286</vendorNo>
+		<vendorName>INTEGART CZ s.r.o.</vendorName>
+		<vendorAddress>Čestice 289</vendorAddress>
+		<city>Čestice</city>
+		<postCode>251 01</postCode>
+		<country>CZ</country>
+		<VAT>CZ04020286</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PP-MAN-INTE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>04384199</vendorNo>
+		<vendorName>Rystol technology s.r.o.</vendorName>
+		<vendorAddress>Hraniční 125</vendorAddress>
+		<city>Chuchelná</city>
+		<postCode>74724</postCode>
+		<country>CZ</country>
+		<VAT>CZ04384199</VAT>
+		<phone/>
+		<email/>
+		<contact>Karel Stýblo</contact>
+		<no>996927-VSS-MAN-RY</no>
+	</vendor>
+	<vendor>
+		<vendorNo>04471865</vendorNo>
+		<vendorName>SECAPRO s.r.o.</vendorName>
+		<vendorAddress>Lidická 700/19</vendorAddress>
+		<city>Brno-střed - Veveří</city>
+		<postCode>60200</postCode>
+		<country>CZ</country>
+		<VAT>CZ04471865</VAT>
+		<phone>+420605819812</phone>
+		<email/>
+		<contact>Ing. Juřica</contact>
+		<no>996927-ITS-MAN-HWSP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>04471865</vendorNo>
+		<vendorName>SECAPRO s.r.o.</vendorName>
+		<vendorAddress>Lidická 700/19</vendorAddress>
+		<city>Brno-střed - Veveří</city>
+		<postCode>60200</postCode>
+		<country>CZ</country>
+		<VAT>CZ04471865</VAT>
+		<phone>+420605819812</phone>
+		<email/>
+		<contact>Ing. Juřica</contact>
+		<no>996927-VSS-MAN-SP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>04885414</vendorNo>
+		<vendorName>Forscope a.s.</vendorName>
+		<vendorAddress>Lidická 960/81</vendorAddress>
+		<city>Brno</city>
+		<postCode>60200</postCode>
+		<country>CZ</country>
+		<VAT>CZ04885414</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-FORSC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>05187664</vendorNo>
+		<vendorName>Smart-Con s.r.o.</vendorName>
+		<vendorAddress>Kopretinová 2063/23 PRAHA 10 - ZÁBĚHLICE</vendorAddress>
+		<city>Praha - Záběhlice</city>
+		<postCode>10600</postCode>
+		<country>CZ</country>
+		<VAT>CZ05187664</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-SO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>05275776</vendorNo>
+		<vendorName>Noble Class a.s.</vendorName>
+		<vendorAddress>Bakalářská 627/19</vendorAddress>
+		<city>Praha Malešice</city>
+		<postCode>10800</postCode>
+		<country>CZ</country>
+		<VAT>CZ05275776</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-OFP-MAN-NOBL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>05344727</vendorNo>
+		<vendorName>Ing. Milouš Kobrle</vendorName>
+		<vendorAddress>Libštát 186</vendorAddress>
+		<city>Libštát</city>
+		<postCode>51203</postCode>
+		<country>CZ</country>
+		<VAT/>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-KOBR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>05447852</vendorNo>
+		<vendorName>UAVONIC CZ, s.r.o.</vendorName>
+		<vendorAddress>Za Brumlovkou 1559/5 Michle</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14000</postCode>
+		<country>CZ</country>
+		<VAT>CZ05447852</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-UAV</no>
+	</vendor>
+	<vendor>
+		<vendorNo>05540160</vendorNo>
+		<vendorName>AxxonSoft Czech and Slovak s.r.o.</vendorName>
+		<vendorAddress>Příkop 873/4 BRNO-STŘED, ZÁBRDOVICE</vendorAddress>
+		<city>Brno Zábrdovice</city>
+		<postCode>60200</postCode>
+		<country>CZ</country>
+		<VAT>CZ05540160</VAT>
+		<phone/>
+		<email>oldrich.horak@axxonsoft.com</email>
+		<contact/>
+		<no>996927-VSS-MAN-AX</no>
+	</vendor>
+	<vendor>
+		<vendorNo>06378871</vendorNo>
+		<vendorName>Alpha Electric s.r.o.</vendorName>
+		<vendorAddress>Politických veznu 398</vendorAddress>
+		<city>Mirošov</city>
+		<postCode>33843</postCode>
+		<country>CZ</country>
+		<VAT>CZ06378871</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-FVV-MAN-ALP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>06609805</vendorNo>
+		<vendorName>Ademco CZ s.r.o.</vendorName>
+		<vendorAddress>Tuřanka 1236/96</vendorAddress>
+		<city>Brno 27 Slatina</city>
+		<postCode>62700</postCode>
+		<country>CZ</country>
+		<VAT>CZ06609805</VAT>
+		<phone/>
+		<email>obchod.cz@adiglobal.com</email>
+		<contact>obchod.cz@adiglobal.com</contact>
+		<no>996927-ITS-MAN-HWAD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>06609805</vendorNo>
+		<vendorName>Ademco CZ s.r.o.</vendorName>
+		<vendorAddress>Tuřanka 1236/96</vendorAddress>
+		<city>Brno 27 Slatina</city>
+		<postCode>62700</postCode>
+		<country>CZ</country>
+		<VAT>CZ06609805</VAT>
+		<phone/>
+		<email>obchod.cz@adiglobal.com</email>
+		<contact>obchod.cz@adiglobal.com</contact>
+		<no>996927-OFP-MAN-AD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>06609805</vendorNo>
+		<vendorName>Ademco CZ s.r.o.</vendorName>
+		<vendorAddress>Tuřanka 1236/96</vendorAddress>
+		<city>Brno 27 Slatina</city>
+		<postCode>62700</postCode>
+		<country>CZ</country>
+		<VAT>CZ06609805</VAT>
+		<phone/>
+		<email>obchod.cz@adiglobal.com</email>
+		<contact>obchod.cz@adiglobal.com</contact>
+		<no>996927-VSS-MAN-AD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>06649114</vendorNo>
+		<vendorName>Prusa Research a.s.</vendorName>
+		<vendorAddress>Partyzánská 188/7a</vendorAddress>
+		<city>Praha 7 - Holešovice</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ06649114</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-OFP-MAN-PRUSA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>06700888</vendorNo>
+		<vendorName>DIGIDATARCH spol. s r.o.</vendorName>
+		<vendorAddress>Hudcova 588/70b</vendorAddress>
+		<city>Brno 21 Medlánky</city>
+		<postCode>62100</postCode>
+		<country>CZ</country>
+		<VAT>CZ06700888</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWDD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>08319553</vendorNo>
+		<vendorName>E-TALPA s.r.o.</vendorName>
+		<vendorAddress>STROUPEČ 33 ŽIŽELICE</vendorAddress>
+		<city>Žatec</city>
+		<postCode>43801</postCode>
+		<country>CZ</country>
+		<VAT>CZ08319553</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-ET</no>
+	</vendor>
+	<vendor>
+		<vendorNo>08330051</vendorNo>
+		<vendorName>SAYTECH CZ s.r.o.</vendorName>
+		<vendorAddress>Opletalova 1626/36 PRAHA 1 - NOVÉ MĚSTO</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ08330051</VAT>
+		<phone>602284739</phone>
+		<email/>
+		<contact>prajer@saytech.cz</contact>
+		<no>996927-VSS-MAN-SAYT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>09689516</vendorNo>
+		<vendorName>Comsec Solutions s.r.o.</vendorName>
+		<vendorAddress>Aviatická 1092/8 Ruzyně</vendorAddress>
+		<city>Praha 6</city>
+		<postCode>16100</postCode>
+		<country>CZ</country>
+		<VAT>CZ09689516</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-COMSO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>100100</vendorNo>
+		<vendorName>Konica Minolta Business Solutions Czech</vendorName>
+		<vendorAddress>Žarošická 13</vendorAddress>
+		<city>Brno 28 Vinohrady</city>
+		<postCode>62800</postCode>
+		<country>CZ</country>
+		<VAT/>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VAS-MAN-KM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>10649786</vendorNo>
+		<vendorName>Jiří Matušík</vendorName>
+		<vendorAddress>PROSTŘEDNÍ BEČVA 372</vendorAddress>
+		<city>Prostřední Bečva</city>
+		<postCode>75656</postCode>
+		<country>CZ</country>
+		<VAT>CZ5612031073</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-JM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>10838830</vendorNo>
+		<vendorName>PROJEKTA CORP s.r.o.</vendorName>
+		<vendorAddress>Milánská 416 PRAHA 15 - HORNÍ MĚCHOLUPY</vendorAddress>
+		<city>Praha</city>
+		<postCode>10900</postCode>
+		<country>CZ</country>
+		<VAT>CZ10838830</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-LGFXM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>11702</vendorNo>
+		<vendorName>Buršík L. - fiktivní dodavatel</vendorName>
+		<vendorAddress>Veveří 102</vendorAddress>
+		<city>Brno 16</city>
+		<postCode>61600</postCode>
+		<country>CZ</country>
+		<VAT/>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-EUSFMANMFPDP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>14498138</vendorNo>
+		<vendorName>XANADU a.s.</vendorName>
+		<vendorAddress>Tylova 153/17</vendorAddress>
+		<city>České Budějovice</city>
+		<postCode>37001</postCode>
+		<country>CZ</country>
+		<VAT>CZ14498138</VAT>
+		<phone>+420/724 729 210</phone>
+		<email/>
+		<contact>Ing. Rostislav Pop</contact>
+		<no>996927-ITS-MAN-HWXD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>15039137</vendorNo>
+		<vendorName>Schrack Technik spol. s r.o.</vendorName>
+		<vendorAddress>Dolnoměcholupská 2</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ15039137</VAT>
+		<phone/>
+		<email>j.smerda@schrack.cz</email>
+		<contact/>
+		<no>996927-ITS-MAN-HWST</no>
+	</vendor>
+	<vendor>
+		<vendorNo>15039137</vendorNo>
+		<vendorName>Schrack Technik spol. s r.o.</vendorName>
+		<vendorAddress>Dolnoměcholupská 2</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ15039137</VAT>
+		<phone/>
+		<email>j.smerda@schrack.cz</email>
+		<contact/>
+		<no>996927-VSS-MAN-SC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>18825176</vendorNo>
+		<vendorName>AXIMA, spol. s r. o.</vendorName>
+		<vendorAddress>Vídeňská 204/125</vendorAddress>
+		<city>Brno 19</city>
+		<postCode>61900</postCode>
+		<country>CZ</country>
+		<VAT>CZ18825176</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-AM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>19012021</vendorNo>
+		<vendorName>GABEN, spol. s r. o.</vendorName>
+		<vendorAddress>Hájkova 558/1</vendorAddress>
+		<city>Ostrava  2</city>
+		<postCode>70200</postCode>
+		<country>CZ</country>
+		<VAT>CZ19012021</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWGBN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>202203501</vendorNo>
+		<vendorName>Mobotix AG</vendorName>
+		<vendorAddress>Kaiserstrasse D-67722 Langmail</vendorAddress>
+		<city/>
+		<postCode/>
+		<country>DE</country>
+		<VAT>DE202203501</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-MBX</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24158534</vendorNo>
+		<vendorName>UNIBIND Czech Republic, s.r.o.</vendorName>
+		<vendorAddress>Pekařská 621/7</vendorAddress>
+		<city>Praha 5, Jinonice</city>
+		<postCode/>
+		<country>CZ</country>
+		<VAT>CZ24158534</VAT>
+		<phone>603 412 539</phone>
+		<email>jiri.mokosin@unibind.cz</email>
+		<contact>Jiří Mokošín</contact>
+		<no>996927-IP-MAN-UNIB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24158534</vendorNo>
+		<vendorName>UNIBIND Czech Republic, s.r.o.</vendorName>
+		<vendorAddress>Pekařská 621/7</vendorAddress>
+		<city>Praha 5, Jinonice</city>
+		<postCode/>
+		<country>CZ</country>
+		<VAT>CZ24158534</VAT>
+		<phone>603 412 539</phone>
+		<email>jiri.mokosin@unibind.cz</email>
+		<contact>Jiří Mokošín</contact>
+		<no>996927-PPIP-MAN-UNIB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24158534</vendorNo>
+		<vendorName>UNIBIND Czech Republic, s.r.o.</vendorName>
+		<vendorAddress>Pekařská 621/7</vendorAddress>
+		<city>Praha 5, Jinonice</city>
+		<postCode/>
+		<country>CZ</country>
+		<VAT>CZ24158534</VAT>
+		<phone>603 412 539</phone>
+		<email>jiri.mokosin@unibind.cz</email>
+		<contact>Jiří Mokošín</contact>
+		<no>996927-PP-MAN-UNIB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24163911</vendorNo>
+		<vendorName>SOCOS IT s.r.o.</vendorName>
+		<vendorAddress>Jílovská 427/25</vendorAddress>
+		<city>Praha</city>
+		<postCode>14200</postCode>
+		<country>CZ</country>
+		<VAT>CZ24163911</VAT>
+		<phone>+420 605 268 656</phone>
+		<email/>
+		<contact>jiri.cmiral@socosit.cz</contact>
+		<no>996927-ITS-MAN-SWSOC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24228991</vendorNo>
+		<vendorName>Smarty CZ a.s.</vendorName>
+		<vendorAddress>Olivova 2096/4 PRAHA 1 - NOVÉ MĚSTO</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24228991</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SWSTY</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24256374</vendorNo>
+		<vendorName>Papouch store s.r.o.</vendorName>
+		<vendorAddress>Strašnická 3165/1b PRAHA 10 - ZÁBĚHLICE</vendorAddress>
+		<city>PRAHA 102</city>
+		<postCode>102 00</postCode>
+		<country>CZ</country>
+		<VAT>CZ24256374</VAT>
+		<phone/>
+		<email>obchod@papouch.com</email>
+		<contact/>
+		<no>996927-VSS-MAN-PS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24269760</vendorNo>
+		<vendorName>ALARMOVÉ SYSTÉMY CZ s.r.o.</vendorName>
+		<vendorAddress>Sinkulova 1209/40</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24269760</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWAS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24269760</vendorNo>
+		<vendorName>ALARMOVÉ SYSTÉMY CZ s.r.o.</vendorName>
+		<vendorAddress>Sinkulova 1209/40</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24269760</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-AS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24828441</vendorNo>
+		<vendorName>INFOMATIC s.r.o.</vendorName>
+		<vendorAddress>Bucharova 1186/16</vendorAddress>
+		<city>Praha 13, Stodůlky</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24828441</VAT>
+		<phone>722251761</phone>
+		<email/>
+		<contact>obchod@infomatic.cz</contact>
+		<no>996927-IP-MAN-INFO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24828441</vendorNo>
+		<vendorName>INFOMATIC s.r.o.</vendorName>
+		<vendorAddress>Bucharova 1186/16</vendorAddress>
+		<city>Praha 13, Stodůlky</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24828441</VAT>
+		<phone>722251761</phone>
+		<email/>
+		<contact>obchod@infomatic.cz</contact>
+		<no>996927-ITS-MAN-HWIN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24828441</vendorNo>
+		<vendorName>INFOMATIC s.r.o.</vendorName>
+		<vendorAddress>Bucharova 1186/16</vendorAddress>
+		<city>Praha 13, Stodůlky</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24828441</VAT>
+		<phone>722251761</phone>
+		<email/>
+		<contact>obchod@infomatic.cz</contact>
+		<no>996927-ITS-MAN-INFM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24828441</vendorNo>
+		<vendorName>INFOMATIC s.r.o.</vendorName>
+		<vendorAddress>Bucharova 1186/16</vendorAddress>
+		<city>Praha 13, Stodůlky</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24828441</VAT>
+		<phone>722251761</phone>
+		<email/>
+		<contact>obchod@infomatic.cz</contact>
+		<no>996927-ITS-MAN-SWIN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24828441</vendorNo>
+		<vendorName>INFOMATIC s.r.o.</vendorName>
+		<vendorAddress>Bucharova 1186/16</vendorAddress>
+		<city>Praha 13, Stodůlky</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24828441</VAT>
+		<phone>722251761</phone>
+		<email/>
+		<contact>obchod@infomatic.cz</contact>
+		<no>996927-KX-IND-MAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24828441</vendorNo>
+		<vendorName>INFOMATIC s.r.o.</vendorName>
+		<vendorAddress>Bucharova 1186/16</vendorAddress>
+		<city>Praha 13, Stodůlky</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24828441</VAT>
+		<phone>722251761</phone>
+		<email/>
+		<contact>obchod@infomatic.cz</contact>
+		<no>996927-OFP-MAN-INFOM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24828441</vendorNo>
+		<vendorName>INFOMATIC s.r.o.</vendorName>
+		<vendorAddress>Bucharova 1186/16</vendorAddress>
+		<city>Praha 13, Stodůlky</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24828441</VAT>
+		<phone>722251761</phone>
+		<email/>
+		<contact>obchod@infomatic.cz</contact>
+		<no>996927-PPIP-MAN-INFO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>24828441</vendorNo>
+		<vendorName>INFOMATIC s.r.o.</vendorName>
+		<vendorAddress>Bucharova 1186/16</vendorAddress>
+		<city>Praha 13, Stodůlky</city>
+		<postCode>15000</postCode>
+		<country>CZ</country>
+		<VAT>CZ24828441</VAT>
+		<phone>722251761</phone>
+		<email/>
+		<contact>obchod@infomatic.cz</contact>
+		<no>996927-PP-MAN-INFO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25064631</vendorNo>
+		<vendorName>Iron Mountain Česká republika s.r.o.</vendorName>
+		<vendorAddress>Zahradní 105</vendorAddress>
+		<city>Jeneč</city>
+		<postCode>25261</postCode>
+		<country>CZ</country>
+		<VAT>CZ25064631</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-IRONM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25097008</vendorNo>
+		<vendorName>REISSWOLF</vendorName>
+		<vendorAddress>U Dýhárny 1162</vendorAddress>
+		<city>Kralupy nad Vltavou</city>
+		<postCode>27801</postCode>
+		<country>CZ</country>
+		<VAT>CZ25097008</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-REISW</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25146441</vendorNo>
+		<vendorName>DNS a.s.</vendorName>
+		<vendorAddress>Na strži 1702/65</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14000</postCode>
+		<country>CZ</country>
+		<VAT>CZ25146441</VAT>
+		<phone>724222195</phone>
+		<email>lkvapil@dns.cz</email>
+		<contact>Lubomír Kvapil</contact>
+		<no>996927-ITS-MAN-HWDNS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25201816</vendorNo>
+		<vendorName>AIMTEC a. s.</vendorName>
+		<vendorAddress>U Prazdroje 2807/8 Východní Předměstí</vendorAddress>
+		<city>Plzeň 1</city>
+		<postCode>30100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25201816</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-OFP-MAN-AIM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25344609</vendorNo>
+		<vendorName>CDC Data s.r.o.</vendorName>
+		<vendorAddress>Kaštanová 618/141c</vendorAddress>
+		<city>Brno</city>
+		<postCode>61700</postCode>
+		<country>CZ</country>
+		<VAT>CZ25344609</VAT>
+		<phone>538700561</phone>
+		<email/>
+		<contact>Jitka Rydvalová, 608113161</contact>
+		<no>996927-ITS-MAN-HWCD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25344609</vendorNo>
+		<vendorName>CDC Data s.r.o.</vendorName>
+		<vendorAddress>Kaštanová 618/141c</vendorAddress>
+		<city>Brno</city>
+		<postCode>61700</postCode>
+		<country>CZ</country>
+		<VAT>CZ25344609</VAT>
+		<phone>538700561</phone>
+		<email/>
+		<contact>Jitka Rydvalová, 608113161</contact>
+		<no>996927-ITS-MAN-SWCD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25434471</vendorNo>
+		<vendorName>CardHouse s.r.o.</vendorName>
+		<vendorAddress>Revoluční 178/3</vendorAddress>
+		<city>Ústí nad Labem</city>
+		<postCode>40001</postCode>
+		<country>CZ</country>
+		<VAT>CZ25434471</VAT>
+		<phone>606 744 471</phone>
+		<email>tadeas.valenta@cardhouse.cz</email>
+		<contact>Tadeáš Valenta</contact>
+		<no>996927-ITS-MAN-CDH</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25454005</vendorNo>
+		<vendorName>NONAC CV spol. s r.o.</vendorName>
+		<vendorAddress>Nerudova 67/10</vendorAddress>
+		<city>Chomutov</city>
+		<postCode/>
+		<country>CZ</country>
+		<VAT>CZ25454005</VAT>
+		<phone>+420602669999</phone>
+		<email>miroslav.hradecky@nonac.eu</email>
+		<contact>Miroslav Hradecký</contact>
+		<no>996927-ITS-MAN-HWNNC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25544276</vendorNo>
+		<vendorName>ARLES, s.r.o.</vendorName>
+		<vendorAddress>Holešovská 429</vendorAddress>
+		<city>Fryšták</city>
+		<postCode>76316</postCode>
+		<country>CZ</country>
+		<VAT>CZ25544276</VAT>
+		<phone/>
+		<email>orsava@arles.cz</email>
+		<contact/>
+		<no>996927-VSS-MAN-ARLES</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25563068</vendorNo>
+		<vendorName>STAND CZ SPOL. S R.O.</vendorName>
+		<vendorAddress>Řípská 1153/20a</vendorAddress>
+		<city>Brno 27</city>
+		<postCode>62700</postCode>
+		<country>CZ</country>
+		<VAT>CZ25563068</VAT>
+		<phone>777 735 116</phone>
+		<email>petr.kechajov@stand.cz</email>
+		<contact>Petr Kechajov</contact>
+		<no>996927-ITS-MAN-HWSTN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25648101</vendorNo>
+		<vendorName>scanservice a.s.</vendorName>
+		<vendorAddress>Průmyslová 1306/7 Praha 15-Hostivař</vendorAddress>
+		<city>Praha</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ25648101</VAT>
+		<phone>+420 727 818 163</phone>
+		<email/>
+		<contact>Michaela Přibylová</contact>
+		<no>996927-ITS-MAN-HWSC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25648101</vendorNo>
+		<vendorName>scanservice a.s.</vendorName>
+		<vendorAddress>Průmyslová 1306/7 Praha 15-Hostivař</vendorAddress>
+		<city>Praha</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ25648101</VAT>
+		<phone>+420 727 818 163</phone>
+		<email/>
+		<contact>Michaela Přibylová</contact>
+		<no>996927-ITS-MAN-SSSC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25648101</vendorNo>
+		<vendorName>scanservice a.s.</vendorName>
+		<vendorAddress>Průmyslová 1306/7 Praha 15-Hostivař</vendorAddress>
+		<city>Praha</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ25648101</VAT>
+		<phone>+420 727 818 163</phone>
+		<email/>
+		<contact>Michaela Přibylová</contact>
+		<no>996927-ITS-MAN-SWSC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25648101</vendorNo>
+		<vendorName>scanservice a.s.</vendorName>
+		<vendorAddress>Průmyslová 1306/7 Praha 15-Hostivař</vendorAddress>
+		<city>Praha</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ25648101</VAT>
+		<phone>+420 727 818 163</phone>
+		<email/>
+		<contact>Michaela Přibylová</contact>
+		<no>996927-OFP-MAN-SCS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25649761</vendorNo>
+		<vendorName>HAPPY END CZ,a.s.</vendorName>
+		<vendorAddress>Argentinská 3/772</vendorAddress>
+		<city>Praha 7 - Holešovice</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ25649761</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-HE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25655701</vendorNo>
+		<vendorName>CZC.cz s.r.o.</vendorName>
+		<vendorAddress>Brodská 570</vendorAddress>
+		<city>Příbram</city>
+		<postCode>26107</postCode>
+		<country>CZ</country>
+		<VAT>CZ25655701</VAT>
+		<phone>+420 734 575 891</phone>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWCZC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25681168</vendorNo>
+		<vendorName>PROMSAT CZ s.r.o.</vendorName>
+		<vendorAddress>Branická 1876/167 PRAHA 4 - KČR</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14000</postCode>
+		<country>CZ</country>
+		<VAT>CZ25681168</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-PRMST</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25762702</vendorNo>
+		<vendorName>VanCo.cz s.r.o.</vendorName>
+		<vendorAddress>Vojtěšská 231/17 Praha - Nové Město</vendorAddress>
+		<city>Praha 1- Nové Město</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ25762702</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-VC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25779796</vendorNo>
+		<vendorName>GRAFIE CZ, s.r.o.</vendorName>
+		<vendorAddress>Konevova 2660/141</vendorAddress>
+		<city>Praha 3</city>
+		<postCode>13000</postCode>
+		<country>CZ</country>
+		<VAT>CZ25779796</VAT>
+		<phone>602 329 782</phone>
+		<email/>
+		<contact>Martin Novotný</contact>
+		<no>996927-PPIP-MAN-GRAF</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-BWCZ-ANALYS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-BWCZ-CUSTOM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-BWCZ-DEPLOY</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRM-BASIC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRM-BREP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRM-CUSTOM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMDEV-BASIC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMDEV-ESSEN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMDEV-PROFI</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRM-ESSEN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRM-LOGISTIC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMOL-CON-POH</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMOL-LOGIST</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMOL-NOC-NAV</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMOL-PACKL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMOL-PACKM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMOL-PACKS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRMOL-SUPPORT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRM-PROFI</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-CRM-SERVER</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-DS-IMPL-ECM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-DS-KS-ECM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-DS-TR-ECM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-DEV-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-DEV-KS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-DEV-TR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-FC-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-FC-KS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-FC-TR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-FD-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-FD-KS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-FD-TR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-FRS-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-FRS-KS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-FRS-TR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-K2-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-MFILE-IMP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-MFILE-KS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-MFILE-TR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-MSHP-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-MSPP-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-MSPP-PAID</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-SOP-DA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-SOP-FD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ECM-SOP-VF-OP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-I365-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-IS-IMPL-ECM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-IS-KS-ECM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-IS-TR-ECM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-ITS-MAN-SWCAK</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-K2-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-K2-KS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-K2-TR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-LMS365-ROK</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-NAV-BREP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-NAV-FULL-USER</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-NAV-LIMITED</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-NAV-OBJECT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-NAV-SRV-EXTEN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-NAV-SRV-START</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-NAV-TRANSFER</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-NAV-WORKHOURS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-O365-BUS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-O365-BUS-ESEN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-O365-BUS-PREM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-O365-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-O365-KS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-O365-START</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-PP-DEV</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK01</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK02</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK03</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK04</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK05</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK06</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK07</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK08</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK09</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SEC-BICZ-SK10</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SHP-IMPL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SOP-DS-IM-ECM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SOP-I365I</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25820826</vendorNo>
+		<vendorName>Konica Minolta IT Solutions Czech s.r.o. (BICZ)</vendorName>
+		<vendorAddress>U Plynárny 1002/97</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10100</postCode>
+		<country>CZ</country>
+		<VAT>CZ25820826</VAT>
+		<phone>733 512 296</phone>
+		<email/>
+		<contact>Dita Burianová</contact>
+		<no>996927-SOP-VF-CAAS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25833812</vendorNo>
+		<vendorName>ELVAC a.s.</vendorName>
+		<vendorAddress>Hasičská 930/53</vendorAddress>
+		<city>Ostrava</city>
+		<postCode>70030</postCode>
+		<country>CZ</country>
+		<VAT>CZ25833812</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-EV</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25870424</vendorNo>
+		<vendorName>Arrow ECS, a.s.</vendorName>
+		<vendorAddress>28. října 3390/111a</vendorAddress>
+		<city>Ostrava</city>
+		<postCode>70200</postCode>
+		<country>CZ</country>
+		<VAT>CZ25870424</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ICTSW-MAN-ARR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25870424</vendorNo>
+		<vendorName>Arrow ECS, a.s.</vendorName>
+		<vendorAddress>28. října 3390/111a</vendorAddress>
+		<city>Ostrava</city>
+		<postCode>70200</postCode>
+		<country>CZ</country>
+		<VAT>CZ25870424</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SWARR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25936239</vendorNo>
+		<vendorName>A-Scan s.r.o.</vendorName>
+		<vendorAddress>Velká 442/52</vendorAddress>
+		<city>Hradec Králové</city>
+		<postCode>50341</postCode>
+		<country>CZ</country>
+		<VAT>CZ25936239</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-ASCAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25955993</vendorNo>
+		<vendorName>BLUECOM s.r.o.</vendorName>
+		<vendorAddress>Nerudova 1034</vendorAddress>
+		<city>Chrudim</city>
+		<postCode>53701</postCode>
+		<country>CZ</country>
+		<VAT>CZ25955993</VAT>
+		<phone>+420 469 688 054</phone>
+		<email>sales@bluecom.cz</email>
+		<contact/>
+		<no>996927-VSS-MAN-BC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25960920</vendorNo>
+		<vendorName>ANTALON s.r.o.</vendorName>
+		<vendorAddress/>
+		<city>Praha 9</city>
+		<postCode>19800</postCode>
+		<country>CZ</country>
+		<VAT>CZ25960920</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-AN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>25974289</vendorNo>
+		<vendorName>METEL s.r.o.</vendorName>
+		<vendorAddress>Žižkův kopec 617</vendorAddress>
+		<city>Česká Skalice</city>
+		<postCode>55203</postCode>
+		<country>CZ</country>
+		<VAT>CZ25974289</VAT>
+		<phone/>
+		<email>order@metel.eu</email>
+		<contact>order@metel.eu</contact>
+		<no>996927-VSS-MAN-ME</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26197740</vendorNo>
+		<vendorName>Y Soft Corporation, a.s.</vendorName>
+		<vendorAddress>Technická 2948/13k</vendorAddress>
+		<city>Brno</city>
+		<postCode>61200</postCode>
+		<country>CZ</country>
+		<VAT>CZ26197740</VAT>
+		<phone>549 240 939</phone>
+		<email/>
+		<contact>731 170 211</contact>
+		<no>996927-ITS-MAN-YSHW</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26197740</vendorNo>
+		<vendorName>Y Soft Corporation, a.s.</vendorName>
+		<vendorAddress>Technická 2948/13k</vendorAddress>
+		<city>Brno</city>
+		<postCode>61200</postCode>
+		<country>CZ</country>
+		<VAT>CZ26197740</VAT>
+		<phone>549 240 939</phone>
+		<email/>
+		<contact>731 170 211</contact>
+		<no>996927-ITS-MAN-YSSW</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26204967</vendorNo>
+		<vendorName>Allegro Retail a.s.</vendorName>
+		<vendorAddress>U garáží 1611/1 PRAHA 7 - HOLEŠOVICE</vendorAddress>
+		<city>Praha 7</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ26204967</VAT>
+		<phone>739 542 832</phone>
+		<email/>
+		<contact>Jaroslav Husák</contact>
+		<no>996927-VSS-MAN-CZC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26279690</vendorNo>
+		<vendorName>ELKOV elektro, a.s.</vendorName>
+		<vendorAddress>Kšírova 255</vendorAddress>
+		<city>Brno 19 Horní Heršpice</city>
+		<postCode>61900</postCode>
+		<country>CZ</country>
+		<VAT>CZ26279690</VAT>
+		<phone>547212269</phone>
+		<email>objednavky@elkov.cz, martin.novak@elkov.cz</email>
+		<contact>Martin Novák, tel: 777 736 891</contact>
+		<no>996927-VSS-MAN-EL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26398591</vendorNo>
+		<vendorName>aSolution s.r.o.</vendorName>
+		<vendorAddress>U Retexu 623</vendorAddress>
+		<city>Klatovy</city>
+		<postCode>33901</postCode>
+		<country>CZ</country>
+		<VAT>CZ26398591</VAT>
+		<phone>724906100</phone>
+		<email>zvonicek@asolution.cz</email>
+		<contact>Zvoníček</contact>
+		<no>996927-OFP-MAN-ASL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26458489</vendorNo>
+		<vendorName>NUBEO Technologies s.r.o.</vendorName>
+		<vendorAddress>Zelený pruh 1560/99</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14000</postCode>
+		<country>CZ</country>
+		<VAT>CZ26458489</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SWNUB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26689511</vendorNo>
+		<vendorName>CGOS s.r.o.</vendorName>
+		<vendorAddress>Senovážné náměstí 871/26 Nové Město</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>110000</postCode>
+		<country>CZ</country>
+		<VAT>CZ26689511</VAT>
+		<phone>+420604231491</phone>
+		<email/>
+		<contact>Daniel Dubský</contact>
+		<no>996927-ITS-MAN-SWCGO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26689511</vendorNo>
+		<vendorName>CGOS s.r.o.</vendorName>
+		<vendorAddress>Senovážné náměstí 871/26 Nové Město</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>110000</postCode>
+		<country>CZ</country>
+		<VAT>CZ26689511</VAT>
+		<phone>+420604231491</phone>
+		<email/>
+		<contact>Daniel Dubský</contact>
+		<no>996927-OFP-MAN-CGE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26722275</vendorNo>
+		<vendorName>TFP Universal a.s.</vendorName>
+		<vendorAddress>K Juliánově 150</vendorAddress>
+		<city>Praha 6</city>
+		<postCode>16400</postCode>
+		<country>CZ</country>
+		<VAT>CZ26722275</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWTFP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26732122</vendorNo>
+		<vendorName>IRSnet s.r.o.</vendorName>
+		<vendorAddress>Politických vězňů 934/15</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ26732122</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-IRSNE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26902711</vendorNo>
+		<vendorName>ANTS spol. s r.o.</vendorName>
+		<vendorAddress>Řípská 1153/20a</vendorAddress>
+		<city>Brno 27</city>
+		<postCode>62700</postCode>
+		<country>CZ</country>
+		<VAT>CZ26902711</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SSAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26902711</vendorNo>
+		<vendorName>ANTS spol. s r.o.</vendorName>
+		<vendorAddress>Řípská 1153/20a</vendorAddress>
+		<city>Brno 27</city>
+		<postCode>62700</postCode>
+		<country>CZ</country>
+		<VAT>CZ26902711</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-OFP-MAN-ANTS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26978199</vendorNo>
+		<vendorName>AROJA XORFEX, s.r.o.</vendorName>
+		<vendorAddress>tř. Masarykova 1197</vendorAddress>
+		<city>Veselí nad Moravou</city>
+		<postCode>69801</postCode>
+		<country>CZ</country>
+		<VAT>CZ26978199</VAT>
+		<phone>+420 777 987 045</phone>
+		<email/>
+		<contact/>
+		<no>996927-IP-MAN-AROJ</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26978199</vendorNo>
+		<vendorName>AROJA XORFEX, s.r.o.</vendorName>
+		<vendorAddress>tř. Masarykova 1197</vendorAddress>
+		<city>Veselí nad Moravou</city>
+		<postCode>69801</postCode>
+		<country>CZ</country>
+		<VAT>CZ26978199</VAT>
+		<phone>+420 777 987 045</phone>
+		<email/>
+		<contact/>
+		<no>996927-PPIP-MAN-AROJ</no>
+	</vendor>
+	<vendor>
+		<vendorNo>26978199</vendorNo>
+		<vendorName>AROJA XORFEX, s.r.o.</vendorName>
+		<vendorAddress>tř. Masarykova 1197</vendorAddress>
+		<city>Veselí nad Moravou</city>
+		<postCode>69801</postCode>
+		<country>CZ</country>
+		<VAT>CZ26978199</VAT>
+		<phone>+420 777 987 045</phone>
+		<email/>
+		<contact/>
+		<no>996927-PP-MAN-AROJ</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27261387</vendorNo>
+		<vendorName>ESP holding a.s.</vendorName>
+		<vendorAddress/>
+		<city>Ústí nad Labem</city>
+		<postCode>40001</postCode>
+		<country>CZ</country>
+		<VAT>CZ27261387</VAT>
+		<phone>724 010 690</phone>
+		<email>obchod@esp.cz</email>
+		<contact>Michaela Černá</contact>
+		<no>996927-OFP-MAN-ESP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27261387</vendorNo>
+		<vendorName>ESP holding a.s.</vendorName>
+		<vendorAddress/>
+		<city>Ústí nad Labem</city>
+		<postCode>40001</postCode>
+		<country>CZ</country>
+		<VAT>CZ27261387</VAT>
+		<phone>724 010 690</phone>
+		<email>obchod@esp.cz</email>
+		<contact>Michaela Černá</contact>
+		<no>996927-OFP-MAN-ESPH</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27373665</vendorNo>
+		<vendorName>OKsystem a.s.</vendorName>
+		<vendorAddress>Na Pankráci 1690/125</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14021</postCode>
+		<country>CZ</country>
+		<VAT>CZ27373665</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-OFP-MAN-OKS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27402975</vendorNo>
+		<vendorName>STATECH s.r.o.</vendorName>
+		<vendorAddress>Počapelská 346</vendorAddress>
+		<city>Dolní Beřkovice</city>
+		<postCode>27701</postCode>
+		<country>CZ</country>
+		<VAT>CZ27402975</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-ST</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27475387</vendorNo>
+		<vendorName>eHOUSE Services s.r.o.</vendorName>
+		<vendorAddress>Dolní Libchavy 303</vendorAddress>
+		<city>Libchavy</city>
+		<postCode>56116</postCode>
+		<country>CZ</country>
+		<VAT>CZ27475387</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWEH</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27714209</vendorNo>
+		<vendorName>WFmetal, s.r.o.</vendorName>
+		<vendorAddress>Bednářská 1024/4 PRAHA 8 - LIBEŇ</vendorAddress>
+		<city>Praha 8</city>
+		<postCode>18000</postCode>
+		<country>CZ</country>
+		<VAT>CZ27714209</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-WF</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27749240</vendorNo>
+		<vendorName>intecs data, s.r.o.</vendorName>
+		<vendorAddress>Šumavská 524/31</vendorAddress>
+		<city>Brno</city>
+		<postCode>60200</postCode>
+		<country>CZ</country>
+		<VAT>CZ27749240</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SSINT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27780252</vendorNo>
+		<vendorName>NITTA Systems s.r.o.</vendorName>
+		<vendorAddress>Technologická 372/2 PUSTKOVEC</vendorAddress>
+		<city>Ostrava 8</city>
+		<postCode>70800</postCode>
+		<country>CZ</country>
+		<VAT>CZ27780252</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-NI</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27872521</vendorNo>
+		<vendorName>Quadient CXM Czech s.r.o.</vendorName>
+		<vendorAddress>Hvězdova 1716/2b</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14078</postCode>
+		<country>CZ</country>
+		<VAT>CZ27872521</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWQD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27872521</vendorNo>
+		<vendorName>Quadient CXM Czech s.r.o.</vendorName>
+		<vendorAddress>Hvězdova 1716/2b</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14078</postCode>
+		<country>CZ</country>
+		<VAT>CZ27872521</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SSQD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27872521</vendorNo>
+		<vendorName>Quadient CXM Czech s.r.o.</vendorName>
+		<vendorAddress>Hvězdova 1716/2b</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14078</postCode>
+		<country>CZ</country>
+		<VAT>CZ27872521</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SWQD</no>
+	</vendor>
+	<vendor>
+		<vendorNo>27912353</vendorNo>
+		<vendorName>SpeedCard s.r.o.</vendorName>
+		<vendorAddress>Dářská 265/3</vendorAddress>
+		<city>Praha 14</city>
+		<postCode>19800</postCode>
+		<country>CZ</country>
+		<VAT>CZ27912353</VAT>
+		<phone>724 700 209</phone>
+		<email>smidova@speedcard.cz</email>
+		<contact>Monika Šmídová</contact>
+		<no>996927-OFP-MAN-SPC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28252063</vendorNo>
+		<vendorName>MC Systems and Services s.r.o.</vendorName>
+		<vendorAddress>Weilova 1144/2 PRAHA 15 - HOSTIVAŘ</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ28252063</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-MSC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28294483</vendorNo>
+		<vendorName>Bibetus s.r.o.</vendorName>
+		<vendorAddress>Loosova 262/1 BRNO-SEVER, LESNÁ</vendorAddress>
+		<city>Brno</city>
+		<postCode>63800</postCode>
+		<country>CZ</country>
+		<VAT>CZ28294483</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-BIBET</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28372182</vendorNo>
+		<vendorName>Betacorp s.r.o.</vendorName>
+		<vendorAddress>Bořivojova 878/35</vendorAddress>
+		<city>Praha 3</city>
+		<postCode/>
+		<country>CZ</country>
+		<VAT>CZ28372182</VAT>
+		<phone>736540671</phone>
+		<email/>
+		<contact>Petr Benda</contact>
+		<no>996927-ITS-MAN-SSBE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28372182</vendorNo>
+		<vendorName>Betacorp s.r.o.</vendorName>
+		<vendorAddress>Bořivojova 878/35</vendorAddress>
+		<city>Praha 3</city>
+		<postCode/>
+		<country>CZ</country>
+		<VAT>CZ28372182</VAT>
+		<phone>736540671</phone>
+		<email/>
+		<contact>Petr Benda</contact>
+		<no>996927-ITS-MAN-SWBE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28397851</vendorNo>
+		<vendorName>Contrisys, s.r.o.</vendorName>
+		<vendorAddress>Jaromíra Vejvody 1397</vendorAddress>
+		<city>Praha</city>
+		<postCode>156 00</postCode>
+		<country>CZ</country>
+		<VAT>CZ28397851</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWCTS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28397851</vendorNo>
+		<vendorName>Contrisys, s.r.o.</vendorName>
+		<vendorAddress>Jaromíra Vejvody 1397</vendorAddress>
+		<city>Praha</city>
+		<postCode>156 00</postCode>
+		<country>CZ</country>
+		<VAT>CZ28397851</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-PSCTS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28397851</vendorNo>
+		<vendorName>Contrisys, s.r.o.</vendorName>
+		<vendorAddress>Jaromíra Vejvody 1397</vendorAddress>
+		<city>Praha</city>
+		<postCode>156 00</postCode>
+		<country>CZ</country>
+		<VAT>CZ28397851</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SWCTS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28463005</vendorNo>
+		<vendorName>K &amp; V ELEKTRO a.s.</vendorName>
+		<vendorAddress>Týnská 1053/21 PRAHA 1 - STARÉ MĚSTO</vendorAddress>
+		<city>Praha 1 - Staré Město</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ28463005</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-KV</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28488849</vendorNo>
+		<vendorName>ICT audit, s.r.o.</vendorName>
+		<vendorAddress>Kubelíkova 1224/42</vendorAddress>
+		<city>Praha 3</city>
+		<postCode>13000</postCode>
+		<country>CZ</country>
+		<VAT>CZ28488849</VAT>
+		<phone>+420 602 303 265</phone>
+		<email>fiser@ictaudit.cz</email>
+		<contact/>
+		<no>996927-ITS-MAN-HWITA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28529375</vendorNo>
+		<vendorName>FORMICA CZ, s.r.o.</vendorName>
+		<vendorAddress>Obchodní 132</vendorAddress>
+		<city>Čestlice</city>
+		<postCode>25101</postCode>
+		<country>CZ</country>
+		<VAT>CZ28529375</VAT>
+		<phone>777060294</phone>
+		<email/>
+		<contact>Jan Tatíček</contact>
+		<no>996927-IP-MAN-FORM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28529375</vendorNo>
+		<vendorName>FORMICA CZ, s.r.o.</vendorName>
+		<vendorAddress>Obchodní 132</vendorAddress>
+		<city>Čestlice</city>
+		<postCode>25101</postCode>
+		<country>CZ</country>
+		<VAT>CZ28529375</VAT>
+		<phone>777060294</phone>
+		<email/>
+		<contact>Jan Tatíček</contact>
+		<no>996927-PPIP-MAN-FORM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28529375</vendorNo>
+		<vendorName>FORMICA CZ, s.r.o.</vendorName>
+		<vendorAddress>Obchodní 132</vendorAddress>
+		<city>Čestlice</city>
+		<postCode>25101</postCode>
+		<country>CZ</country>
+		<VAT>CZ28529375</VAT>
+		<phone>777060294</phone>
+		<email/>
+		<contact>Jan Tatíček</contact>
+		<no>996927-PP-MAN-FORM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28631994</vendorNo>
+		<vendorName>OPTICORD.CZ s.r.o.</vendorName>
+		<vendorAddress>Erbenova 134/41</vendorAddress>
+		<city>Ostrava - Vítkovice</city>
+		<postCode>70300</postCode>
+		<country>CZ</country>
+		<VAT>CZ28631994</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-OP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28719123</vendorNo>
+		<vendorName>GSM CITY s.r.o.</vendorName>
+		<vendorAddress>Karlovská 161 LIBEREC XXII-HORNÍ SUCHÁ</vendorAddress>
+		<city>Liberec</city>
+		<postCode>46010</postCode>
+		<country>CZ</country>
+		<VAT>CZ28719123</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWGS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28719123</vendorNo>
+		<vendorName>GSM CITY s.r.o.</vendorName>
+		<vendorAddress>Karlovská 161 LIBEREC XXII-HORNÍ SUCHÁ</vendorAddress>
+		<city>Liberec</city>
+		<postCode>46010</postCode>
+		<country>CZ</country>
+		<VAT>CZ28719123</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-GS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28727223</vendorNo>
+		<vendorName>BK Technic s.r.o.</vendorName>
+		<vendorAddress>Zámecká 63</vendorAddress>
+		<city>Český Dub</city>
+		<postCode>46343</postCode>
+		<country>CZ</country>
+		<VAT>CZ28727223</VAT>
+		<phone>+420737988162</phone>
+		<email/>
+		<contact>jiri.bartos@bk-technic.cz</contact>
+		<no>996927-IP-MAN-BK-ACC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28727223</vendorNo>
+		<vendorName>BK Technic s.r.o.</vendorName>
+		<vendorAddress>Zámecká 63</vendorAddress>
+		<city>Český Dub</city>
+		<postCode>46343</postCode>
+		<country>CZ</country>
+		<VAT>CZ28727223</VAT>
+		<phone>+420737988162</phone>
+		<email/>
+		<contact>jiri.bartos@bk-technic.cz</contact>
+		<no>996927-IP-MAN-BK-CON</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28727223</vendorNo>
+		<vendorName>BK Technic s.r.o.</vendorName>
+		<vendorAddress>Zámecká 63</vendorAddress>
+		<city>Český Dub</city>
+		<postCode>46343</postCode>
+		<country>CZ</country>
+		<VAT>CZ28727223</VAT>
+		<phone>+420737988162</phone>
+		<email/>
+		<contact>jiri.bartos@bk-technic.cz</contact>
+		<no>996927-IP-MAN-BK-DOP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28727223</vendorNo>
+		<vendorName>BK Technic s.r.o.</vendorName>
+		<vendorAddress>Zámecká 63</vendorAddress>
+		<city>Český Dub</city>
+		<postCode>46343</postCode>
+		<country>CZ</country>
+		<VAT>CZ28727223</VAT>
+		<phone>+420737988162</phone>
+		<email/>
+		<contact>jiri.bartos@bk-technic.cz</contact>
+		<no>996927-IP-MAN-BK-INS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28727223</vendorNo>
+		<vendorName>BK Technic s.r.o.</vendorName>
+		<vendorAddress>Zámecká 63</vendorAddress>
+		<city>Český Dub</city>
+		<postCode>46343</postCode>
+		<country>CZ</country>
+		<VAT>CZ28727223</VAT>
+		<phone>+420737988162</phone>
+		<email/>
+		<contact>jiri.bartos@bk-technic.cz</contact>
+		<no>996927-IP-MAN-BK-ND</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28727223</vendorNo>
+		<vendorName>BK Technic s.r.o.</vendorName>
+		<vendorAddress>Zámecká 63</vendorAddress>
+		<city>Český Dub</city>
+		<postCode>46343</postCode>
+		<country>CZ</country>
+		<VAT>CZ28727223</VAT>
+		<phone>+420737988162</phone>
+		<email/>
+		<contact>jiri.bartos@bk-technic.cz</contact>
+		<no>996927-IP-MAN-BK-SSW</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28727223</vendorNo>
+		<vendorName>BK Technic s.r.o.</vendorName>
+		<vendorAddress>Zámecká 63</vendorAddress>
+		<city>Český Dub</city>
+		<postCode>46343</postCode>
+		<country>CZ</country>
+		<VAT>CZ28727223</VAT>
+		<phone>+420737988162</phone>
+		<email/>
+		<contact>jiri.bartos@bk-technic.cz</contact>
+		<no>996927-IP-MAN-BKTE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28727223</vendorNo>
+		<vendorName>BK Technic s.r.o.</vendorName>
+		<vendorAddress>Zámecká 63</vendorAddress>
+		<city>Český Dub</city>
+		<postCode>46343</postCode>
+		<country>CZ</country>
+		<VAT>CZ28727223</VAT>
+		<phone>+420737988162</phone>
+		<email/>
+		<contact>jiri.bartos@bk-technic.cz</contact>
+		<no>996927-PPIP-MAN-BKTE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28727223</vendorNo>
+		<vendorName>BK Technic s.r.o.</vendorName>
+		<vendorAddress>Zámecká 63</vendorAddress>
+		<city>Český Dub</city>
+		<postCode>46343</postCode>
+		<country>CZ</country>
+		<VAT>CZ28727223</VAT>
+		<phone>+420737988162</phone>
+		<email/>
+		<contact>jiri.bartos@bk-technic.cz</contact>
+		<no>996927-PP-MAN-BKTE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28744942</vendorNo>
+		<vendorName>WOIT s.r.o.</vendorName>
+		<vendorAddress>Jablonecká 7/22 LIBEREC V-KRISTIÁNOV</vendorAddress>
+		<city>Liberec I</city>
+		<postCode>46001</postCode>
+		<country>CZ</country>
+		<VAT>CZ28744942</VAT>
+		<phone/>
+		<email/>
+		<contact>sales@woit.cz</contact>
+		<no>996927-IP-MAN-WOIT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28744942</vendorNo>
+		<vendorName>WOIT s.r.o.</vendorName>
+		<vendorAddress>Jablonecká 7/22 LIBEREC V-KRISTIÁNOV</vendorAddress>
+		<city>Liberec I</city>
+		<postCode>46001</postCode>
+		<country>CZ</country>
+		<VAT>CZ28744942</VAT>
+		<phone/>
+		<email/>
+		<contact>sales@woit.cz</contact>
+		<no>996927-PPIP-MAN-WOIT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>28744942</vendorNo>
+		<vendorName>WOIT s.r.o.</vendorName>
+		<vendorAddress>Jablonecká 7/22 LIBEREC V-KRISTIÁNOV</vendorAddress>
+		<city>Liberec I</city>
+		<postCode>46001</postCode>
+		<country>CZ</country>
+		<VAT>CZ28744942</VAT>
+		<phone/>
+		<email/>
+		<contact>sales@woit.cz</contact>
+		<no>996927-PP-MAN-WOIT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>29153905</vendorNo>
+		<vendorName>ABUCO ICT s.r.o.</vendorName>
+		<vendorAddress>Třebohostická 987/5</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10000</postCode>
+		<country>CZ</country>
+		<VAT>CZ29153905</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SWSAB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>29210771</vendorNo>
+		<vendorName>SONUS technology s.r.o.</vendorName>
+		<vendorAddress>Březinova 82</vendorAddress>
+		<city>Jaroměřice nad Rokytnou</city>
+		<postCode>67551</postCode>
+		<country>CZ</country>
+		<VAT>CZ29210771</VAT>
+		<phone/>
+		<email/>
+		<contact>sula.p@sonus.cz</contact>
+		<no>996927-ITS-MAN-HWSON</no>
+	</vendor>
+	<vendor>
+		<vendorNo>29284929</vendorNo>
+		<vendorName>KZK tiskárna s.r.o.</vendorName>
+		<vendorAddress>Masná 499/7c BRNO-JIH, TRNITÁ</vendorAddress>
+		<city>Brno 2</city>
+		<postCode>60200</postCode>
+		<country>CZ</country>
+		<VAT>CZ29284929</VAT>
+		<phone>543 256 666</phone>
+		<email>objednavky@kzk.cz</email>
+		<contact>Bc. Michal Kohút</contact>
+		<no>996927-ITS-MAN-HWKZK</no>
+	</vendor>
+	<vendor>
+		<vendorNo>29312876</vendorNo>
+		<vendorName>Smart View s.r.o.</vendorName>
+		<vendorAddress>Nivy 313 KVÍTKOVICE</vendorAddress>
+		<city>Otrokovice</city>
+		<postCode>76502</postCode>
+		<country>CZ</country>
+		<VAT>CZ29312876</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-FVV-MAN-SO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>29312876</vendorNo>
+		<vendorName>Smart View s.r.o.</vendorName>
+		<vendorAddress>Nivy 313 KVÍTKOVICE</vendorAddress>
+		<city>Otrokovice</city>
+		<postCode>76502</postCode>
+		<country>CZ</country>
+		<VAT>CZ29312876</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-SV</no>
+	</vendor>
+	<vendor>
+		<vendorNo>29383161</vendorNo>
+		<vendorName>ExaSoft Holding a.s.</vendorName>
+		<vendorAddress>Rudé armády 651/19a</vendorAddress>
+		<city>Karviná Hranice</city>
+		<postCode>73301</postCode>
+		<country>CZ</country>
+		<VAT>CZ29383161</VAT>
+		<phone>777 222 154</phone>
+		<email/>
+		<contact>Jan Bláha</contact>
+		<no>996927-ITS-MAN-HWES</no>
+	</vendor>
+	<vendor>
+		<vendorNo>29391881</vendorNo>
+		<vendorName>AR-NET Services s.r.o.</vendorName>
+		<vendorAddress>Krmelínská 646/22</vendorAddress>
+		<city>Ostrava Hrabová</city>
+		<postCode>72000</postCode>
+		<country>CZ</country>
+		<VAT>CZ29391881</VAT>
+		<phone>+420775188428</phone>
+		<email/>
+		<contact>Adrian Bányácski</contact>
+		<no>996927-VSS-MAN-AR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>31444881</vendorNo>
+		<vendorName>SCANLOCK INTERNATIONAL, spol. s r.o.</vendorName>
+		<vendorAddress>Októbrová 687/14</vendorAddress>
+		<city>Galanta</city>
+		<postCode>92401</postCode>
+		<country>SK</country>
+		<VAT>SK2020370770</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-SCAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>35747811</vendorNo>
+		<vendorName>C.G.C., a.s.</vendorName>
+		<vendorAddress>Drobného 27</vendorAddress>
+		<city>Bratislava</city>
+		<postCode>84101</postCode>
+		<country>SK</country>
+		<VAT>SK2020271308</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-CG</no>
+	</vendor>
+	<vendor>
+		<vendorNo>40763374</vendorNo>
+		<vendorName>FACSON, spol. s r.o.</vendorName>
+		<vendorAddress>Dopraváků 749/3</vendorAddress>
+		<city>Praha 8</city>
+		<postCode>18400</postCode>
+		<country>CZ</country>
+		<VAT>CZ40763374</VAT>
+		<phone>241740643/602302643</phone>
+		<email/>
+		<contact>objednavky@facson.cz</contact>
+		<no>996927-OFP-MAN-FAC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>40763374</vendorNo>
+		<vendorName>FACSON, spol. s r.o.</vendorName>
+		<vendorAddress>Dopraváků 749/3</vendorAddress>
+		<city>Praha 8</city>
+		<postCode>18400</postCode>
+		<country>CZ</country>
+		<VAT>CZ40763374</VAT>
+		<phone>241740643/602302643</phone>
+		<email/>
+		<contact>objednavky@facson.cz</contact>
+		<no>996927-OFP-MAN-FACS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>43001815</vendorNo>
+		<vendorName>TEPEDE CZ, spol. s r.o.</vendorName>
+		<vendorAddress>Výstavní 10/170</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14900</postCode>
+		<country>CZ</country>
+		<VAT>CZ43001815</VAT>
+		<phone>233 370 074</phone>
+		<email/>
+		<contact/>
+		<no>996927-IP-MAN-TEPE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>43001815</vendorNo>
+		<vendorName>TEPEDE CZ, spol. s r.o.</vendorName>
+		<vendorAddress>Výstavní 10/170</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14900</postCode>
+		<country>CZ</country>
+		<VAT>CZ43001815</VAT>
+		<phone>233 370 074</phone>
+		<email/>
+		<contact/>
+		<no>996927-PPIP-MAN-TEPE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>43001815</vendorNo>
+		<vendorName>TEPEDE CZ, spol. s r.o.</vendorName>
+		<vendorAddress>Výstavní 10/170</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14900</postCode>
+		<country>CZ</country>
+		<VAT>CZ43001815</VAT>
+		<phone>233 370 074</phone>
+		<email/>
+		<contact/>
+		<no>996927-PP-MAN-TEPE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>43003028</vendorNo>
+		<vendorName>Bitcon spol. s r.o.</vendorName>
+		<vendorAddress>Suchý vršek 2122/33</vendorAddress>
+		<city>Praha 5</city>
+		<postCode>15800</postCode>
+		<country>CZ</country>
+		<VAT>CZ43003028</VAT>
+		<phone>608 908 099</phone>
+		<email>logistika@bitcon.cz</email>
+		<contact>Pavel Osten</contact>
+		<no>996927-ITS-MAN-HWBC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>44041683</vendorNo>
+		<vendorName>PALA, s.r.o.</vendorName>
+		<vendorAddress>Vintrovna 199/9</vendorAddress>
+		<city>Popůvky</city>
+		<postCode>66441</postCode>
+		<country>CZ</country>
+		<VAT>CZ44041683</VAT>
+		<phone>608555776</phone>
+		<email/>
+		<contact>obchod@pala.cz.,David Vaněk,Tel:608555776</contact>
+		<no>996927-IP-MAN-PALA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>44041683</vendorNo>
+		<vendorName>PALA, s.r.o.</vendorName>
+		<vendorAddress>Vintrovna 199/9</vendorAddress>
+		<city>Popůvky</city>
+		<postCode>66441</postCode>
+		<country>CZ</country>
+		<VAT>CZ44041683</VAT>
+		<phone>608555776</phone>
+		<email/>
+		<contact>obchod@pala.cz.,David Vaněk,Tel:608555776</contact>
+		<no>996927-ITS-MAN-HWPA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>44041683</vendorNo>
+		<vendorName>PALA, s.r.o.</vendorName>
+		<vendorAddress>Vintrovna 199/9</vendorAddress>
+		<city>Popůvky</city>
+		<postCode>66441</postCode>
+		<country>CZ</country>
+		<VAT>CZ44041683</VAT>
+		<phone>608555776</phone>
+		<email/>
+		<contact>obchod@pala.cz.,David Vaněk,Tel:608555776</contact>
+		<no>996927-PPIP-MAN-PALA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>44041683</vendorNo>
+		<vendorName>PALA, s.r.o.</vendorName>
+		<vendorAddress>Vintrovna 199/9</vendorAddress>
+		<city>Popůvky</city>
+		<postCode>66441</postCode>
+		<country>CZ</country>
+		<VAT>CZ44041683</VAT>
+		<phone>608555776</phone>
+		<email/>
+		<contact>obchod@pala.cz.,David Vaněk,Tel:608555776</contact>
+		<no>996927-PP-MAN-PALA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>45280436</vendorNo>
+		<vendorName>COPY GENERAL s.r.o.</vendorName>
+		<vendorAddress>Senovážné nám. 26</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ45280436</VAT>
+		<phone>+420 724 604 372</phone>
+		<email/>
+		<contact>Jiří Exner</contact>
+		<no>996927-IP-MAN-COPY</no>
+	</vendor>
+	<vendor>
+		<vendorNo>45280436</vendorNo>
+		<vendorName>COPY GENERAL s.r.o.</vendorName>
+		<vendorAddress>Senovážné nám. 26</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ45280436</VAT>
+		<phone>+420 724 604 372</phone>
+		<email/>
+		<contact>Jiří Exner</contact>
+		<no>996927-ITS-MAN-HWCG</no>
+	</vendor>
+	<vendor>
+		<vendorNo>45280436</vendorNo>
+		<vendorName>COPY GENERAL s.r.o.</vendorName>
+		<vendorAddress>Senovážné nám. 26</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ45280436</VAT>
+		<phone>+420 724 604 372</phone>
+		<email/>
+		<contact>Jiří Exner</contact>
+		<no>996927-ITS-MAN-SWCG</no>
+	</vendor>
+	<vendor>
+		<vendorNo>45280436</vendorNo>
+		<vendorName>COPY GENERAL s.r.o.</vendorName>
+		<vendorAddress>Senovážné nám. 26</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ45280436</VAT>
+		<phone>+420 724 604 372</phone>
+		<email/>
+		<contact>Jiří Exner</contact>
+		<no>996927-PPIP-MAN-COPY</no>
+	</vendor>
+	<vendor>
+		<vendorNo>45280436</vendorNo>
+		<vendorName>COPY GENERAL s.r.o.</vendorName>
+		<vendorAddress>Senovážné nám. 26</vendorAddress>
+		<city>Praha 1</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ45280436</VAT>
+		<phone>+420 724 604 372</phone>
+		<email/>
+		<contact>Jiří Exner</contact>
+		<no>996927-PP-MAN-COPY</no>
+	</vendor>
+	<vendor>
+		<vendorNo>45601232</vendorNo>
+		<vendorName>NWS s.r.o.</vendorName>
+		<vendorAddress>Pražská 11</vendorAddress>
+		<city>Bratislava</city>
+		<postCode>81104</postCode>
+		<country>SK</country>
+		<VAT>SK2023060116</VAT>
+		<phone/>
+		<email>peter.palhazy@nws.sk</email>
+		<contact>peter.palhazy@nws.sk</contact>
+		<no>996927-ITS-MAN-SSNWS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>46343601</vendorNo>
+		<vendorName>EPRIN spol. s.r.o.</vendorName>
+		<vendorAddress>Podnikatelská 6 B3</vendorAddress>
+		<city>Brno</city>
+		<postCode>61200</postCode>
+		<country>CZ</country>
+		<VAT>CZ46343601</VAT>
+		<phone>538 707 200</phone>
+		<email>obchod@eprin.cz; spotrebnimaterialy@eprin.cz.</email>
+		<contact>p. Vintrlík, tel: 602 737 269</contact>
+		<no>996927-ITS-MAN-HWEP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>46343601</vendorNo>
+		<vendorName>EPRIN spol. s.r.o.</vendorName>
+		<vendorAddress>Podnikatelská 6 B3</vendorAddress>
+		<city>Brno</city>
+		<postCode>61200</postCode>
+		<country>CZ</country>
+		<VAT>CZ46343601</VAT>
+		<phone>538 707 200</phone>
+		<email>obchod@eprin.cz; spotrebnimaterialy@eprin.cz.</email>
+		<contact>p. Vintrlík, tel: 602 737 269</contact>
+		<no>996927-OFP-MAN-EPR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>46353119</vendorNo>
+		<vendorName>HSW Signall s.r.o.</vendorName>
+		<vendorAddress>F.V.Veselého 2635/15</vendorAddress>
+		<city>Praha 20</city>
+		<postCode>19300</postCode>
+		<country>CZ</country>
+		<VAT>CZ46353119</VAT>
+		<phone>+420 602 620 842</phone>
+		<email>techno@hsw.cz; michal.kovac@hsw.cz</email>
+		<contact>Kováč Michal</contact>
+		<no>996927-IP-MAN-HSW</no>
+	</vendor>
+	<vendor>
+		<vendorNo>46353119</vendorNo>
+		<vendorName>HSW Signall s.r.o.</vendorName>
+		<vendorAddress>F.V.Veselého 2635/15</vendorAddress>
+		<city>Praha 20</city>
+		<postCode>19300</postCode>
+		<country>CZ</country>
+		<VAT>CZ46353119</VAT>
+		<phone>+420 602 620 842</phone>
+		<email>techno@hsw.cz; michal.kovac@hsw.cz</email>
+		<contact>Kováč Michal</contact>
+		<no>996927-PPIP-MAN-HSW</no>
+	</vendor>
+	<vendor>
+		<vendorNo>46353119</vendorNo>
+		<vendorName>HSW Signall s.r.o.</vendorName>
+		<vendorAddress>F.V.Veselého 2635/15</vendorAddress>
+		<city>Praha 20</city>
+		<postCode>19300</postCode>
+		<country>CZ</country>
+		<VAT>CZ46353119</VAT>
+		<phone>+420 602 620 842</phone>
+		<email>techno@hsw.cz; michal.kovac@hsw.cz</email>
+		<contact>Kováč Michal</contact>
+		<no>996927-PP-MAN-HSW</no>
+	</vendor>
+	<vendor>
+		<vendorNo>46967168</vendorNo>
+		<vendorName>VARNET s.r.o.</vendorName>
+		<vendorAddress>U Obůrky 823/5</vendorAddress>
+		<city>Třebíč</city>
+		<postCode>67401</postCode>
+		<country>CZ</country>
+		<VAT>CZ46967168</VAT>
+		<phone>+420 565 659 601</phone>
+		<email>m.dokulilova@varnet.cz</email>
+		<contact>Martina Dokulilová</contact>
+		<no>996927-VSS-MAN-VA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>47307781</vendorNo>
+		<vendorName>TELMO a.s.</vendorName>
+		<vendorAddress>Štěrboholská 560/73 Praha 15 - Hostivař</vendorAddress>
+		<city>PRAHA 102</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ47307781</VAT>
+		<phone/>
+		<email/>
+		<contact>Pavel.Michalek@telmo.cz</contact>
+		<no>996927-VSS-MAN-TELMO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>47648244</vendorNo>
+		<vendorName>UAVONIC s.r.o.</vendorName>
+		<vendorAddress>Krasovského 14 městská část petržalka</vendorAddress>
+		<city>Bratislava</city>
+		<postCode>85101</postCode>
+		<country>SK</country>
+		<VAT>SK2024018161</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-UAVSK</no>
+	</vendor>
+	<vendor>
+		<vendorNo>47682621</vendorNo>
+		<vendorName>NOLEX  spol. s r.o.</vendorName>
+		<vendorAddress>Masarykova 815, Krásno nad Bečvou</vendorAddress>
+		<city>Valašské Meziříčí</city>
+		<postCode>75701</postCode>
+		<country>CZ</country>
+		<VAT>CZ47682621</VAT>
+		<phone>+420602777940</phone>
+		<email/>
+		<contact>Vlastimil Stoklas</contact>
+		<no>996927-VSS-MAN-NO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>47906839</vendorNo>
+		<vendorName>DATASCAN, s.r.o.</vendorName>
+		<vendorAddress>Jihlavská 796/7a</vendorAddress>
+		<city>Brno-Bohunice, Bohunice</city>
+		<postCode/>
+		<country>CZ</country>
+		<VAT>CZ47906839</VAT>
+		<phone>731 507 882</phone>
+		<email>m.juran@datascan.cz</email>
+		<contact>Michal Juráň</contact>
+		<no>996927-OFP-MAN-DATAS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>47973404</vendorNo>
+		<vendorName>PEKOS s.r.o.</vendorName>
+		<vendorAddress>Sládkova 2666/27 MORAVSKÁ OSTRAVA</vendorAddress>
+		<city>Ostrava  2</city>
+		<postCode>70200</postCode>
+		<country>CZ</country>
+		<VAT>CZ47973404</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-PE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>47974516</vendorNo>
+		<vendorName>eD system, a.s.</vendorName>
+		<vendorAddress>Novoveská 1262/95</vendorAddress>
+		<city>Ostrava Mariánské Hory</city>
+		<postCode>70900</postCode>
+		<country>CZ</country>
+		<VAT>CZ47974516</VAT>
+		<phone>531 020 839</phone>
+		<email>pkovarik@edsystem.cz</email>
+		<contact>Pavel Kovářík pkovarik@edsystem.cz</contact>
+		<no>996927-ITS-MAN-HWED</no>
+	</vendor>
+	<vendor>
+		<vendorNo>47974516</vendorNo>
+		<vendorName>eD system, a.s.</vendorName>
+		<vendorAddress>Novoveská 1262/95</vendorAddress>
+		<city>Ostrava Mariánské Hory</city>
+		<postCode>70900</postCode>
+		<country>CZ</country>
+		<VAT>CZ47974516</VAT>
+		<phone>531 020 839</phone>
+		<email>pkovarik@edsystem.cz</email>
+		<contact>Pavel Kovářík pkovarik@edsystem.cz</contact>
+		<no>996927-VSS-MAN-ED</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48035611</vendorNo>
+		<vendorName>Weidmuller s.r.o.</vendorName>
+		<vendorAddress>Lomnického 1705/5</vendorAddress>
+		<city>Praha 4 - Nusle</city>
+		<postCode>14000</postCode>
+		<country>CZ</country>
+		<VAT>CZ48035611</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWWM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48035611</vendorNo>
+		<vendorName>Weidmuller s.r.o.</vendorName>
+		<vendorAddress>Lomnického 1705/5</vendorAddress>
+		<city>Praha 4 - Nusle</city>
+		<postCode>14000</postCode>
+		<country>CZ</country>
+		<VAT>CZ48035611</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-OFP-MAN-WEI</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48070050</vendorNo>
+		<vendorName>František Lebeda - Per Partes</vendorName>
+		<vendorAddress>Na rovnosti 22/2696</vendorAddress>
+		<city>Praha 3</city>
+		<postCode>13000</postCode>
+		<country>CZ</country>
+		<VAT>CZ6106131636</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-OFP-MAN-FLPP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48112178</vendorNo>
+		<vendorName>EUROPAPIER - BOHEMIA, spol. s r.o.</vendorName>
+		<vendorAddress>K Pérovně 1384/13</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10200</postCode>
+		<country>CZ</country>
+		<VAT>CZ48112178</VAT>
+		<phone>274 009 197</phone>
+		<email>t.vesela@europapier.cz</email>
+		<contact>Taťána Veselá</contact>
+		<no>996927-ITS-MAN-HWEB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48533807</vendorNo>
+		<vendorName>TELEXION, s.r.o.</vendorName>
+		<vendorAddress>Masarykova 118</vendorAddress>
+		<city>Modřice u Brna</city>
+		<postCode>66442</postCode>
+		<country>CZ</country>
+		<VAT>CZ48533807</VAT>
+		<phone>+420 541 249 495, 549 244 744</phone>
+		<email>obchod@telexion.cz</email>
+		<contact/>
+		<no>996927-VSS-MAN-TE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48585092</vendorNo>
+		<vendorName>LAJKA - PRODUCTION s.r.o.</vendorName>
+		<vendorAddress>Haštalská 760/27</vendorAddress>
+		<city>Praha 1 - Staré Město</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ48585092</VAT>
+		<phone/>
+		<email/>
+		<contact>info@inkjetsolution.cz</contact>
+		<no>996927-IP-MAN-LAJK</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48585092</vendorNo>
+		<vendorName>LAJKA - PRODUCTION s.r.o.</vendorName>
+		<vendorAddress>Haštalská 760/27</vendorAddress>
+		<city>Praha 1 - Staré Město</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ48585092</VAT>
+		<phone/>
+		<email/>
+		<contact>info@inkjetsolution.cz</contact>
+		<no>996927-PPIP-MAN-LAJK</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48585092</vendorNo>
+		<vendorName>LAJKA - PRODUCTION s.r.o.</vendorName>
+		<vendorAddress>Haštalská 760/27</vendorAddress>
+		<city>Praha 1 - Staré Město</city>
+		<postCode>11000</postCode>
+		<country>CZ</country>
+		<VAT>CZ48585092</VAT>
+		<phone/>
+		<email/>
+		<contact>info@inkjetsolution.cz</contact>
+		<no>996927-PP-MAN-LAJK</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48589322</vendorNo>
+		<vendorName>Spandex SyndiCUT, s.r.o.</vendorName>
+		<vendorAddress>Pražská 238</vendorAddress>
+		<city>250 66</city>
+		<postCode>ZDIBY</postCode>
+		<country>CZ</country>
+		<VAT>CZ48589322</VAT>
+		<phone>286 0064 55</phone>
+		<email>Milan Hovorka (Spandex) &lt;milan.hovorka@spandex.com&gt;</email>
+		<contact>Milan Hovorka</contact>
+		<no>996927-IP-MAN-SPAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48589322</vendorNo>
+		<vendorName>Spandex SyndiCUT, s.r.o.</vendorName>
+		<vendorAddress>Pražská 238</vendorAddress>
+		<city>250 66</city>
+		<postCode>ZDIBY</postCode>
+		<country>CZ</country>
+		<VAT>CZ48589322</VAT>
+		<phone>286 0064 55</phone>
+		<email>Milan Hovorka (Spandex) &lt;milan.hovorka@spandex.com&gt;</email>
+		<contact>Milan Hovorka</contact>
+		<no>996927-PPIP-MAN-SPAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>48589322</vendorNo>
+		<vendorName>Spandex SyndiCUT, s.r.o.</vendorName>
+		<vendorAddress>Pražská 238</vendorAddress>
+		<city>250 66</city>
+		<postCode>ZDIBY</postCode>
+		<country>CZ</country>
+		<VAT>CZ48589322</VAT>
+		<phone>286 0064 55</phone>
+		<email>Milan Hovorka (Spandex) &lt;milan.hovorka@spandex.com&gt;</email>
+		<contact>Milan Hovorka</contact>
+		<no>996927-PP-MAN-SPAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>49098934</vendorNo>
+		<vendorName>EVROFIN Int. spol. s.r.o</vendorName>
+		<vendorAddress>Sienkiewiczova 2</vendorAddress>
+		<city>Ústí nad Labem</city>
+		<postCode>40011</postCode>
+		<country>CZ</country>
+		<VAT>CZ49098934</VAT>
+		<phone/>
+		<email>k.novotna@evrofin.cz,286590160</email>
+		<contact>obchod@evrofin.cz, p.mikova@evrofin.eu</contact>
+		<no>996927-ITS-MAN-HWEV</no>
+	</vendor>
+	<vendor>
+		<vendorNo>49098934</vendorNo>
+		<vendorName>EVROFIN Int. spol. s.r.o</vendorName>
+		<vendorAddress>Sienkiewiczova 2</vendorAddress>
+		<city>Ústí nad Labem</city>
+		<postCode>40011</postCode>
+		<country>CZ</country>
+		<VAT>CZ49098934</VAT>
+		<phone/>
+		<email>k.novotna@evrofin.cz,286590160</email>
+		<contact>obchod@evrofin.cz, p.mikova@evrofin.eu</contact>
+		<no>996927-OFP-MAN-EVR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>49241575</vendorNo>
+		<vendorName>VSP DATA a.s.</vendorName>
+		<vendorAddress>Údolní 2188</vendorAddress>
+		<city>Tábor</city>
+		<postCode>39064</postCode>
+		<country>CZ</country>
+		<VAT>CZ49241575</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-OFP-MAN-VSP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>49433776</vendorNo>
+		<vendorName>TECHNOPARK CZ s.r.o.</vendorName>
+		<vendorAddress>Hudcova 532/78b Medlánky</vendorAddress>
+		<city>Brno</city>
+		<postCode>61200</postCode>
+		<country>CZ</country>
+		<VAT>CZ49433776</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-TP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>49446053</vendorNo>
+		<vendorName>AUTOGARD spol. s r.o.</vendorName>
+		<vendorAddress>Nová 387/32 POPŮVKY</vendorAddress>
+		<city>Troubsko</city>
+		<postCode>66441</postCode>
+		<country>CZ</country>
+		<VAT>CZ49446053</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-AU</no>
+	</vendor>
+	<vendor>
+		<vendorNo>49446118</vendorNo>
+		<vendorName>INTELEK spol. s r.o.</vendorName>
+		<vendorAddress>Ericha Roučky 1291/4</vendorAddress>
+		<city>Brno 27</city>
+		<postCode>62700</postCode>
+		<country>CZ</country>
+		<VAT>CZ49446118</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-IN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>49613529</vendorNo>
+		<vendorName>ALIMEX s.r.o.</vendorName>
+		<vendorAddress>Ke Zvoli 339 252 41 DOLNÍ BŘEŽANY</vendorAddress>
+		<city>Dolní Břežany</city>
+		<postCode>25241</postCode>
+		<country>CZ</country>
+		<VAT>CZ49613529</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-AI</no>
+	</vendor>
+	<vendor>
+		<vendorNo>60276258</vendorNo>
+		<vendorName>KASRO spol. s r.o.</vendorName>
+		<vendorAddress>Kamenická 814/29</vendorAddress>
+		<city>Praha 7</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ60276258</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-KASRO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>60707968</vendorNo>
+		<vendorName>100MEGA Distribution s.r.o.</vendorName>
+		<vendorAddress>Železná 7, č.p. 681</vendorAddress>
+		<city>Brno</city>
+		<postCode>61900</postCode>
+		<country>CZ</country>
+		<VAT>CZ60707968</VAT>
+		<phone>+420 548 220 077 kl. 132</phone>
+		<email>Ondra.Miksche@100mega.cz</email>
+		<contact>Ondra Miksche, 548 220 077 kl. 132</contact>
+		<no>996927-ITS-MAN-100M</no>
+	</vendor>
+	<vendor>
+		<vendorNo>60707968</vendorNo>
+		<vendorName>100MEGA Distribution s.r.o.</vendorName>
+		<vendorAddress>Železná 7, č.p. 681</vendorAddress>
+		<city>Brno</city>
+		<postCode>61900</postCode>
+		<country>CZ</country>
+		<VAT>CZ60707968</VAT>
+		<phone>+420 548 220 077 kl. 132</phone>
+		<email>Ondra.Miksche@100mega.cz</email>
+		<contact>Ondra Miksche, 548 220 077 kl. 132</contact>
+		<no>996927-VSS-MAN-100M</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61501484</vendorNo>
+		<vendorName>Canon CZ s.r.o.</vendorName>
+		<vendorAddress>Jankovcova 1595/14b</vendorAddress>
+		<city>Praha 7 - Holešovice</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61501484</VAT>
+		<phone>244 010 451</phone>
+		<email/>
+		<contact>marcela.hradcova@canon.cz</contact>
+		<no>996927-IP-MAN-CANO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61501484</vendorNo>
+		<vendorName>Canon CZ s.r.o.</vendorName>
+		<vendorAddress>Jankovcova 1595/14b</vendorAddress>
+		<city>Praha 7 - Holešovice</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61501484</VAT>
+		<phone>244 010 451</phone>
+		<email/>
+		<contact>marcela.hradcova@canon.cz</contact>
+		<no>996927-ITS-MAN-HWCA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61501484</vendorNo>
+		<vendorName>Canon CZ s.r.o.</vendorName>
+		<vendorAddress>Jankovcova 1595/14b</vendorAddress>
+		<city>Praha 7 - Holešovice</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61501484</VAT>
+		<phone>244 010 451</phone>
+		<email/>
+		<contact>marcela.hradcova@canon.cz</contact>
+		<no>996927-OFP-MAN-CAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61501484</vendorNo>
+		<vendorName>Canon CZ s.r.o.</vendorName>
+		<vendorAddress>Jankovcova 1595/14b</vendorAddress>
+		<city>Praha 7 - Holešovice</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61501484</VAT>
+		<phone>244 010 451</phone>
+		<email/>
+		<contact>marcela.hradcova@canon.cz</contact>
+		<no>996927-PPIP-MAN-CANO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61501484</vendorNo>
+		<vendorName>Canon CZ s.r.o.</vendorName>
+		<vendorAddress>Jankovcova 1595/14b</vendorAddress>
+		<city>Praha 7 - Holešovice</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61501484</VAT>
+		<phone>244 010 451</phone>
+		<email/>
+		<contact>marcela.hradcova@canon.cz</contact>
+		<no>996927-PP-MAN-CANO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-FVV-MAN-ATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-ICTHW-MAN-ATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-ICTNT-MAN-ATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-ICTSW-MAN-ATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-ITS-MAN-HWATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-ITS-MAN-NTATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-ITS-MAN-SWATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-VSS-MAN-ATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-VSS-MAN-HWATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61672599</vendorNo>
+		<vendorName>ATComputers a.s.</vendorName>
+		<vendorAddress>Těšínská 1970/56</vendorAddress>
+		<city>Ostrava Slezská Ostrava</city>
+		<postCode>71000</postCode>
+		<country>CZ</country>
+		<VAT>CZ61672599</VAT>
+		<phone>+420730 527 888</phone>
+		<email/>
+		<contact>p.Řimanek, p.Stošková, rimanek@atcomp.cz</contact>
+		<no>996927-VSS-MAN-SWATC</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61947024</vendorNo>
+		<vendorName>Haberkorn s.r.o.</vendorName>
+		<vendorAddress>Generála Vlachého 305</vendorAddress>
+		<city>Mokré Lazce</city>
+		<postCode>74762</postCode>
+		<country>CZ</country>
+		<VAT>CZ61947024</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-FVV-MAN-HAB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61947024</vendorNo>
+		<vendorName>Haberkorn s.r.o.</vendorName>
+		<vendorAddress>Generála Vlachého 305</vendorAddress>
+		<city>Mokré Lazce</city>
+		<postCode>74762</postCode>
+		<country>CZ</country>
+		<VAT>CZ61947024</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-HAB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>61977306</vendorNo>
+		<vendorName>CS21 Nextnet, s.r.o.</vendorName>
+		<vendorAddress>Žerotínova 1051/19</vendorAddress>
+		<city>Moravská Ostrava</city>
+		<postCode>70142</postCode>
+		<country>CZ</country>
+		<VAT>CZ61977306</VAT>
+		<phone>737 797 193</phone>
+		<email/>
+		<contact>Tomáš Palička</contact>
+		<no>996927-ITS-MAN-SWCS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>62304381</vendorNo>
+		<vendorName>T.S.BOHEMIA spol. s r.o.</vendorName>
+		<vendorAddress>Sladovní 103/3,</vendorAddress>
+		<city>Olomouc - Pavlovičky</city>
+		<postCode>77900</postCode>
+		<country>CZ</country>
+		<VAT>CZ62304381</VAT>
+		<phone> 585 157 488</phone>
+		<email>obchod@tsbohemia.cz</email>
+		<contact/>
+		<no>996927-VSS-MAN-TS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>62412809</vendorNo>
+		<vendorName>EURIA v.o.s.</vendorName>
+		<vendorAddress/>
+		<city>Praha 7</city>
+		<postCode>17000</postCode>
+		<country>CZ</country>
+		<VAT>CZ62412809</VAT>
+		<phone>233 380 192</phone>
+		<email>euria@atlas.cz</email>
+		<contact>605 709405</contact>
+		<no>996927-ITS-MAN-HWEU</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63078236</vendorNo>
+		<vendorName>Software602 a.s.</vendorName>
+		<vendorAddress>Hornokrčská 15</vendorAddress>
+		<city>Praha 4</city>
+		<postCode>14000</postCode>
+		<country>CZ</country>
+		<VAT>CZ63078236</VAT>
+		<phone>+420 725 630 340</phone>
+		<email/>
+		<contact>Radek Vondruška</contact>
+		<no>996927-ITS-MAN-SWSO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63323966</vendorNo>
+		<vendorName>TINT s. r. o.</vendorName>
+		<vendorAddress>Fügnerova 3636</vendorAddress>
+		<city>Frýdek-Místek</city>
+		<postCode>73801</postCode>
+		<country>CZ</country>
+		<VAT>CZ63323966</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWTNT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63469511</vendorNo>
+		<vendorName>NWT a.s.</vendorName>
+		<vendorAddress>nám. Míru 1217</vendorAddress>
+		<city>Hulín</city>
+		<postCode>76824</postCode>
+		<country>CZ</country>
+		<VAT>CZ63469511</VAT>
+		<phone>724 156 486</phone>
+		<email>adam.dockal@nwt.cz</email>
+		<contact>Ing. Adam Dočkal</contact>
+		<no>996927-VSS-MAN-NWT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63478269</vendorNo>
+		<vendorName>ABBAS, a.s.</vendorName>
+		<vendorAddress>Edisonova 5</vendorAddress>
+		<city>Brno</city>
+		<postCode>61200</postCode>
+		<country>CZ</country>
+		<VAT>CZ63478269</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-AB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63485826</vendorNo>
+		<vendorName>SWS a.s.</vendorName>
+		<vendorAddress>Dostihová 1</vendorAddress>
+		<city>Slušovice</city>
+		<postCode>76315</postCode>
+		<country>CZ</country>
+		<VAT>CZ699000207</VAT>
+		<phone>577 640 336</phone>
+		<email/>
+		<contact>R.Zvonek Produkt.man., u něho neobj.</contact>
+		<no>996927-IP-MAN-SWS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63485826</vendorNo>
+		<vendorName>SWS a.s.</vendorName>
+		<vendorAddress>Dostihová 1</vendorAddress>
+		<city>Slušovice</city>
+		<postCode>76315</postCode>
+		<country>CZ</country>
+		<VAT>CZ699000207</VAT>
+		<phone>577 640 336</phone>
+		<email/>
+		<contact>R.Zvonek Produkt.man., u něho neobj.</contact>
+		<no>996927-ITS-MAN-HWSWS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63485826</vendorNo>
+		<vendorName>SWS a.s.</vendorName>
+		<vendorAddress>Dostihová 1</vendorAddress>
+		<city>Slušovice</city>
+		<postCode>76315</postCode>
+		<country>CZ</country>
+		<VAT>CZ699000207</VAT>
+		<phone>577 640 336</phone>
+		<email/>
+		<contact>R.Zvonek Produkt.man., u něho neobj.</contact>
+		<no>996927-ITS-MAN-SWSWS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63485826</vendorNo>
+		<vendorName>SWS a.s.</vendorName>
+		<vendorAddress>Dostihová 1</vendorAddress>
+		<city>Slušovice</city>
+		<postCode>76315</postCode>
+		<country>CZ</country>
+		<VAT>CZ699000207</VAT>
+		<phone>577 640 336</phone>
+		<email/>
+		<contact>R.Zvonek Produkt.man., u něho neobj.</contact>
+		<no>996927-PPIP-MAN-SWS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63485826</vendorNo>
+		<vendorName>SWS a.s.</vendorName>
+		<vendorAddress>Dostihová 1</vendorAddress>
+		<city>Slušovice</city>
+		<postCode>76315</postCode>
+		<country>CZ</country>
+		<VAT>CZ699000207</VAT>
+		<phone>577 640 336</phone>
+		<email/>
+		<contact>R.Zvonek Produkt.man., u něho neobj.</contact>
+		<no>996927-PP-MAN-SWS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>63485826</vendorNo>
+		<vendorName>SWS a.s.</vendorName>
+		<vendorAddress>Dostihová 1</vendorAddress>
+		<city>Slušovice</city>
+		<postCode>76315</postCode>
+		<country>CZ</country>
+		<VAT>CZ699000207</VAT>
+		<phone>577 640 336</phone>
+		<email/>
+		<contact>R.Zvonek Produkt.man., u něho neobj.</contact>
+		<no>996927-VSS-MAN-SWS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>64256642</vendorNo>
+		<vendorName>Turck, s.r.o.</vendorName>
+		<vendorAddress>Na Brně 2065</vendorAddress>
+		<city>Hradec Králové</city>
+		<postCode>50006</postCode>
+		<country>CZ</country>
+		<VAT>CZ64256642</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-FVV-MAN-TUR</no>
+	</vendor>
+	<vendor>
+		<vendorNo>64942643</vendorNo>
+		<vendorName>ATIS GROUP s.r.o</vendorName>
+		<vendorAddress>Za strašnickou vozovnou 2523/7 PRAHA 10 - VINOHRADY</vendorAddress>
+		<city>Praha 10</city>
+		<postCode>10000</postCode>
+		<country>CZ</country>
+		<VAT>CZ64942643</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-AT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>64949681</vendorNo>
+		<vendorName>T-Mobile Czech Republic a.s.</vendorName>
+		<vendorAddress>Tomíčkova 2144/1</vendorAddress>
+		<city>Praha 414</city>
+		<postCode>14800</postCode>
+		<country>CZ</country>
+		<VAT>CZ64949681</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-HWTMB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>64949681</vendorNo>
+		<vendorName>T-Mobile Czech Republic a.s.</vendorName>
+		<vendorAddress>Tomíčkova 2144/1</vendorAddress>
+		<city>Praha 414</city>
+		<postCode>14800</postCode>
+		<country>CZ</country>
+		<VAT>CZ64949681</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SSTMB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>64949681</vendorNo>
+		<vendorName>T-Mobile Czech Republic a.s.</vendorName>
+		<vendorAddress>Tomíčkova 2144/1</vendorAddress>
+		<city>Praha 414</city>
+		<postCode>14800</postCode>
+		<country>CZ</country>
+		<VAT>CZ64949681</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SWTMB</no>
+	</vendor>
+	<vendor>
+		<vendorNo>65277457</vendorNo>
+		<vendorName>ALMS spol. s r.o.</vendorName>
+		<vendorAddress>Brněnská 834</vendorAddress>
+		<city>Modřice</city>
+		<postCode>66442</postCode>
+		<country>CZ</country>
+		<VAT>CZ65277457</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-AL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>682809511</vendorNo>
+		<vendorName>RS Components Sp. z o.o.</vendorName>
+		<vendorAddress>ul. Domaniewska 48</vendorAddress>
+		<city>Warszawa</city>
+		<postCode>02-672</postCode>
+		<country>PL</country>
+		<VAT>CZ682809511</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-RS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>69683816</vendorNo>
+		<vendorName>Radek Mahovský</vendorName>
+		<vendorAddress>Uherčice 376</vendorAddress>
+		<city>Uherčice</city>
+		<postCode>69162</postCode>
+		<country>CZ</country>
+		<VAT>CZ7408194068</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-RM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>863503922</vendorNo>
+		<vendorName>Zenitel Norway AS</vendorName>
+		<vendorAddress>P.O.Box 1068 Bekkajordet</vendorAddress>
+		<city>HORTEN</city>
+		<postCode>3194</postCode>
+		<country>NO</country>
+		<VAT>NO863503922</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-ZE</no>
+	</vendor>
+	<vendor>
+		<vendorNo>ATU48829709</vendorNo>
+		<vendorName>RealNetworks GmbH</vendorName>
+		<vendorAddress>Sonystraße 18</vendorAddress>
+		<city>anif</city>
+		<postCode>AT-5081</postCode>
+		<country>AT</country>
+		<VAT>ATU48829709</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-SA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>DE209485840</vendorNo>
+		<vendorName>ABBYY Europe GmbH</vendorName>
+		<vendorAddress>Friedenstr. 22b</vendorAddress>
+		<city>Munich</city>
+		<postCode>81671</postCode>
+		<country>DE</country>
+		<VAT>DE209485840</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-FCD-IND-MAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>DE209485840</vendorNo>
+		<vendorName>ABBYY Europe GmbH</vendorName>
+		<vendorAddress>Friedenstr. 22b</vendorAddress>
+		<city>Munich</city>
+		<postCode>81671</postCode>
+		<country>DE</country>
+		<VAT>DE209485840</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-FRS-IND-MAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>DK15155299</vendorNo>
+		<vendorName>GRAFISK MASKINFABRIK A/S</vendorName>
+		<vendorAddress>Klintehoj Vange 12</vendorAddress>
+		<city>Birkerod</city>
+		<postCode>3460</postCode>
+		<country>DK</country>
+		<VAT>DK15155299</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-IP-MAN-GM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>DK15155299</vendorNo>
+		<vendorName>GRAFISK MASKINFABRIK A/S</vendorName>
+		<vendorAddress>Klintehoj Vange 12</vendorAddress>
+		<city>Birkerod</city>
+		<postCode>3460</postCode>
+		<country>DK</country>
+		<VAT>DK15155299</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PPIP-MAN-GM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>DK15155299</vendorNo>
+		<vendorName>GRAFISK MASKINFABRIK A/S</vendorName>
+		<vendorAddress>Klintehoj Vange 12</vendorAddress>
+		<city>Birkerod</city>
+		<postCode>3460</postCode>
+		<country>DK</country>
+		<VAT>DK15155299</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PP-MAN-GM</no>
+	</vendor>
+	<vendor>
+		<vendorNo>FI06862007</vendorNo>
+		<vendorName>M-Files Oy</vendorName>
+		<vendorAddress>Hermiankatu 1 33720 TAMPERE</vendorAddress>
+		<city>TAMPERE</city>
+		<postCode>33720</postCode>
+		<country>FI</country>
+		<VAT>FI06862007</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-MFILE-CON-MAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>FI06862007</vendorNo>
+		<vendorName>M-Files Oy</vendorName>
+		<vendorAddress>Hermiankatu 1 33720 TAMPERE</vendorAddress>
+		<city>TAMPERE</city>
+		<postCode>33720</postCode>
+		<country>FI</country>
+		<VAT>FI06862007</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-MFILE-GEN-MAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>FI06862007</vendorNo>
+		<vendorName>M-Files Oy</vendorName>
+		<vendorAddress>Hermiankatu 1 33720 TAMPERE</vendorAddress>
+		<city>TAMPERE</city>
+		<postCode>33720</postCode>
+		<country>FI</country>
+		<VAT>FI06862007</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-MFILE-NAM-MAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>FI06862007</vendorNo>
+		<vendorName>M-Files Oy</vendorName>
+		<vendorAddress>Hermiankatu 1 33720 TAMPERE</vendorAddress>
+		<city>TAMPERE</city>
+		<postCode>33720</postCode>
+		<country>FI</country>
+		<VAT>FI06862007</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-MFILE-REA-MAN</no>
+	</vendor>
+	<vendor>
+		<vendorNo>GB887780062</vendorNo>
+		<vendorName>INDUSTRIAL INKJET LTD</vendorName>
+		<vendorAddress>MERIDIAN BUCKINGWAY BUS PARK UNIT 3, MERIDIAN</vendorAddress>
+		<city>SWAVESEY</city>
+		<postCode>CB24 4AE</postCode>
+		<country>GB</country>
+		<VAT/>
+		<phone/>
+		<email>iijorderline@industrialij.com</email>
+		<contact>iijorderline@industrialij.com</contact>
+		<no>996927-IP-MAN-II</no>
+	</vendor>
+	<vendor>
+		<vendorNo>GB887780062</vendorNo>
+		<vendorName>INDUSTRIAL INKJET LTD</vendorName>
+		<vendorAddress>MERIDIAN BUCKINGWAY BUS PARK UNIT 3, MERIDIAN</vendorAddress>
+		<city>SWAVESEY</city>
+		<postCode>CB24 4AE</postCode>
+		<country>GB</country>
+		<VAT/>
+		<phone/>
+		<email>iijorderline@industrialij.com</email>
+		<contact>iijorderline@industrialij.com</contact>
+		<no>996927-PPIP-MAN-II</no>
+	</vendor>
+	<vendor>
+		<vendorNo>GB887780062</vendorNo>
+		<vendorName>INDUSTRIAL INKJET LTD</vendorName>
+		<vendorAddress>MERIDIAN BUCKINGWAY BUS PARK UNIT 3, MERIDIAN</vendorAddress>
+		<city>SWAVESEY</city>
+		<postCode>CB24 4AE</postCode>
+		<country>GB</country>
+		<VAT/>
+		<phone/>
+		<email>iijorderline@industrialij.com</email>
+		<contact>iijorderline@industrialij.com</contact>
+		<no>996927-PP-MAN-II</no>
+	</vendor>
+	<vendor>
+		<vendorNo>IE9828745W</vendorNo>
+		<vendorName>Cognex Ireland Limited</vendorName>
+		<vendorAddress>2008-2014 Block 2000 Mallow Road, Cork</vendorAddress>
+		<city/>
+		<postCode/>
+		<country>IE</country>
+		<VAT>IE9828745W</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-FVV-MAN-COGNX</no>
+	</vendor>
+	<vendor>
+		<vendorNo>LT100013223510</vendorNo>
+		<vendorName>UAB TELTONIKA NETWORKS</vendorName>
+		<vendorAddress>K.Baršausko g.66 Kauno m. sav., Kaunas</vendorAddress>
+		<city>Lithuania</city>
+		<postCode>LT-51436</postCode>
+		<country>LT</country>
+		<VAT>LT100013223510</VAT>
+		<phone>+370 3 721 6110</phone>
+		<email/>
+		<contact>info@teltonika.lt</contact>
+		<no>996927-VSS-MAN-TEL</no>
+	</vendor>
+	<vendor>
+		<vendorNo>LV40003892432</vendorNo>
+		<vendorName>DTK Software</vendorName>
+		<vendorAddress>Reznas 5-70, Riga, LV-1019, Latvia</vendorAddress>
+		<city/>
+		<postCode/>
+		<country>LV</country>
+		<VAT>LV40003892432</VAT>
+		<phone>+37167112515</phone>
+		<email/>
+		<contact>Maksims Sokolovs</contact>
+		<no>996927-VSS-MAN-DT</no>
+	</vendor>
+	<vendor>
+		<vendorNo>NL862644306B01</vendorNo>
+		<vendorName>i-PRO EMEA B.V.</vendorName>
+		<vendorAddress>Laarderhoogtweg 25</vendorAddress>
+		<city>Amsterdam, Nederland</city>
+		<postCode>1100 CC</postCode>
+		<country>NL</country>
+		<VAT>NL862644306B01</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-I-PRO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>PL5241050491</vendorNo>
+		<vendorName>EMIS Sp. z o.o.</vendorName>
+		<vendorAddress>Jana Kochanowskiego 45/3</vendorAddress>
+		<city>Warszawa</city>
+		<postCode>01-864</postCode>
+		<country>PL</country>
+		<VAT>PL5241050491</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-IP-MAN-EMIS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>PL5241050491</vendorNo>
+		<vendorName>EMIS Sp. z o.o.</vendorName>
+		<vendorAddress>Jana Kochanowskiego 45/3</vendorAddress>
+		<city>Warszawa</city>
+		<postCode>01-864</postCode>
+		<country>PL</country>
+		<VAT>PL5241050491</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PPIP-MAN-EMIS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>PL5241050491</vendorNo>
+		<vendorName>EMIS Sp. z o.o.</vendorName>
+		<vendorAddress>Jana Kochanowskiego 45/3</vendorAddress>
+		<city>Warszawa</city>
+		<postCode>01-864</postCode>
+		<country>PL</country>
+		<VAT>PL5241050491</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PP-MAN-EMIS</no>
+	</vendor>
+	<vendor>
+		<vendorNo>PL5790006381</vendorNo>
+		<vendorName>ROGER SPOLKA Z OGRANICZONA</vendorName>
+		<vendorAddress>GOSCISZEWO 59</vendorAddress>
+		<city>SZTUM</city>
+		<postCode>82-400</postCode>
+		<country>PL</country>
+		<VAT>PL5790006381</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-RO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>PL5790006381</vendorNo>
+		<vendorName>ROGER SPOLKA Z OGRANICZONA</vendorName>
+		<vendorAddress>GOSCISZEWO 59</vendorAddress>
+		<city>SZTUM</city>
+		<postCode>82-400</postCode>
+		<country>PL</country>
+		<VAT>PL5790006381</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-ROGER</no>
+	</vendor>
+	<vendor>
+		<vendorNo>RO16114516</vendorNo>
+		<vendorName>LANTEC ROMANIA S.R.L.</vendorName>
+		<vendorAddress>MUNICIPIUL BUCUREŞTI, SECTOR 2 STR. ING. VASILE CRISTESCU Nr. 17</vendorAddress>
+		<city>Bucharest</city>
+		<postCode>021984</postCode>
+		<country>RO</country>
+		<VAT>RO16114516</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-LA</no>
+	</vendor>
+	<vendor>
+		<vendorNo>SCYLLA TECHNOLOGIES</vendorNo>
+		<vendorName>SCYLLA TECHNOLOGIES INC</vendorName>
+		<vendorAddress>11801 Domain Blvd 3rd Fl.</vendorAddress>
+		<city>78758</city>
+		<postCode>AUSTIN</postCode>
+		<country>US</country>
+		<VAT/>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-VSS-MAN-SY</no>
+	</vendor>
+	<vendor>
+		<vendorNo>SK2020451807</vendorNo>
+		<vendorName>APIS spol. s r.o.</vendorName>
+		<vendorAddress>Lazovná 12</vendorAddress>
+		<city>Banská Bystrica</city>
+		<postCode>97401</postCode>
+		<country>SK</country>
+		<VAT>SK2020451807</VAT>
+		<phone/>
+		<email>obchod@apis.sk</email>
+		<contact/>
+		<no>996927-VSS-MAN-AP</no>
+	</vendor>
+	<vendor>
+		<vendorNo>SK2022383902</vendorNo>
+		<vendorName>NANOTEC s.r.o.</vendorName>
+		<vendorAddress>Semenárska 1760</vendorAddress>
+		<city>Vrbové</city>
+		<postCode>92203</postCode>
+		<country>SK</country>
+		<VAT>SK2022383902</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-IP-MAN-NANO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>SK2022383902</vendorNo>
+		<vendorName>NANOTEC s.r.o.</vendorName>
+		<vendorAddress>Semenárska 1760</vendorAddress>
+		<city>Vrbové</city>
+		<postCode>92203</postCode>
+		<country>SK</country>
+		<VAT>SK2022383902</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PPIP-MAN-NANO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>SK2022383902</vendorNo>
+		<vendorName>NANOTEC s.r.o.</vendorName>
+		<vendorAddress>Semenárska 1760</vendorAddress>
+		<city>Vrbové</city>
+		<postCode>92203</postCode>
+		<country>SK</country>
+		<VAT>SK2022383902</VAT>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-PP-MAN-NANO</no>
+	</vendor>
+	<vendor>
+		<vendorNo>WORKLEAP</vendorNo>
+		<vendorName>Workleap Platform Inc.</vendorName>
+		<vendorAddress>1751 Richardson street Suite #1050</vendorAddress>
+		<city>Montreal,Quebec</city>
+		<postCode>H3K1G6</postCode>
+		<country>CA</country>
+		<VAT/>
+		<phone/>
+		<email/>
+		<contact/>
+		<no>996927-ITS-MAN-SWWL</no>
+	</vendor>
+</vendors>
